@@ -1,0 +1,35 @@
+Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
+Current Assets
+Cash and Cash Equivalents $289,870 $297,532 $128,586 $119,051
+Short-Term Investments $0 $0 $0 $0
+Net Receivables $158,192 $146,746 $275,185 $185,472
+Inventory $26,574 $24,403 $23,967 $19,068
+Other Current Assets $27,896 $20,259 $20,670 $18,048
+Total Current Assets $502,532 $488,940 $448,408 $341,639
+Long-Term Assets
+Long-Term Investments $16,661 $8,847 $2,638 $2,020
+Fixed Assets $128,869 $116,288 $113,519 $98,439
+Goodwill $681,635 $640,537 $640,589 $640,546
+Intangible Assets $279,187 $287,397 $324,311 $317,997
+Other Assets $20,339 $6,252 $7,609 $7,522
+Deferred Asset Charges $0 $0 $0 $0
+Total Assets $1,629,223 $1,548,261 $1,537,074 $1,408,163
+Current Liabilities
+Accounts Payable $173,103 $129,238 $134,504 $94,391
+Short-Term Debt / Current Portion of Long-Term Debt $0 $8,200 $8,200 $10,000
+Other Current Liabilities $234,087 $334,198 $317,744 $239,123
+Total Current Liabilities $407,190 $471,636 $460,448 $343,514
+Long-Term Debt $1,108,078 $1,155,016 $1,159,643 $1,111,880
+Other Liabilities $33,566 $2,637 $19,409 $2,951
+Deferred Liability Charges $26,401 $27,867 $38,207 $57,611
+Misc. Stocks $0 $0 $0 $0
+Minority Interest $0 $0 $0 $0
+Total Liabilities $1,575,235 $1,657,156 $1,677,707 $1,515,956
+Stock Holders Equity
+Common Stocks $109 $95 $93 $91
+Capital Surplus -$212,940 -$229,457 -$246,202 -$194,299
+Retained Earnings -$177,524 -$176,464 -$176,341 -$176,231
+Treasury Stock $445,162 $298,929 $282,070 $264,755
+Other Equity -$819 -$1,998 -$253 -$2,109
+Total Equity $53,988 -$108,895 -$140,633 -$107,793
+Total Liabilities & Equity $1,629,223 $1,548,261 $1,537,074 $1,408,163
