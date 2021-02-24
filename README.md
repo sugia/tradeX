@@ -1,6 +1,8 @@
 # tradeX
 
-This project contains:
+This project trains models to predict long term stock performance based on financial statements.
+
+This is a cs230 project. It contains code blocks of:
 1. crawling raw data (balance sheet, income statement, cash flow statement, historical price) from nasdaq.com;
 2. parsing raw data into processed data;
 3. getting statistics from processed data;
