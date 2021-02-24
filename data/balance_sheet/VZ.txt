@@ -1,0 +1,35 @@
+Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
+Current Assets
+Cash and Cash Equivalents $2,594,000 $2,745,000 $2,079,000 $2,880,000
+Short-Term Investments $0 $0 $0 $0
+Net Receivables $25,429,000 $25,102,000 $23,493,000 $17,513,000
+Inventory $1,422,000 $1,336,000 $1,034,000 $1,202,000
+Other Current Assets $8,028,000 $5,453,000 $3,307,000 $4,800,000
+Total Current Assets $37,473,000 $34,636,000 $29,913,000 $26,395,000
+Long-Term Assets
+Long-Term Investments $558,000 $671,000 $1,039,000 $1,110,000
+Fixed Assets $114,609,000 $89,286,000 $88,568,000 $85,364,000
+Goodwill $24,389,000 $24,614,000 $29,172,000 $27,205,000
+Intangible Assets $104,557,000 $103,905,000 $98,664,000 $95,570,000
+Other Assets $10,141,000 $11,717,000 $9,787,000 $8,536,000
+Deferred Asset Charges $0 $0 $0 $0
+Total Assets $291,727,000 $264,829,000 $257,143,000 $244,180,000
+Current Liabilities
+Accounts Payable $21,806,000 $22,501,000 $21,232,000 $19,593,000
+Short-Term Debt / Current Portion of Long-Term Debt $10,777,000 $7,190,000 $3,453,000 $2,645,000
+Other Current Liabilities $12,285,000 $8,239,000 $8,352,000 $8,102,000
+Total Current Liabilities $44,868,000 $37,930,000 $33,037,000 $30,340,000
+Long-Term Debt $100,712,000 $105,873,000 $113,642,000 $105,433,000
+Other Liabilities $48,609,000 $32,521,000 $34,545,000 $38,411,000
+Deferred Liability Charges $34,703,000 $33,795,000 $31,232,000 $45,964,000
+Misc. Stocks $1,440,000 $1,565,000 $1,591,000 $1,508,000
+Minority Interest $0 $0 $0 $0
+Total Liabilities $228,892,000 $210,119,000 $212,456,000 $220,148,000
+Stock Holders Equity
+Common Stocks $429,000 $429,000 $424,000 $424,000
+Capital Surplus $53,147,000 $43,542,000 $35,635,000 $15,059,000
+Retained Earnings -$6,820,000 -$6,986,000 -$7,139,000 -$7,263,000
+Treasury Stock $13,419,000 $13,437,000 $11,101,000 $11,182,000
+Other Equity $1,220,000 $2,723,000 $3,075,000 $3,122,000
+Total Equity $61,395,000 $53,145,000 $43,096,000 $22,524,000
+Total Liabilities & Equity $291,727,000 $264,829,000 $257,143,000 $244,180,000
