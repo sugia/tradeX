@@ -1,3 +1,11 @@
+'''
+This file trains a multi-class classification neural network model with LSTM
+to classify stock price changes based on unions of financial statements.
+
+Experimental result shows that, after 500 epochs:
+the accuracy on training set is 0.7515571117401123;
+the accuracy on dev set is 0.7682878375053406;
+'''
 from datetime import datetime
 from sklearn.model_selection import train_test_split
 import numpy as np
@@ -102,9 +110,3 @@ if __name__ == '__main__':
 
   print(model.evaluate(X_train, y_train))
   print(model.evaluate(X_test, y_test))
-  '''
-  500 epochs
-  train 0.7515571117401123
-  dev 0.7682878375053406
-  '''
-
