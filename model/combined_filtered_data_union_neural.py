@@ -1,3 +1,11 @@
+'''
+This file trains a multi-class classification neural network model
+to classify stock price changes based on unions of financial statements.
+
+Experimental result shows that, after 500 epochs:
+the accuracy on training set is 0.8102825284004211;
+the accuracy on dev set is 0.7362831830978394;
+'''
 import numpy as np
 from sklearn.model_selection import train_test_split
 import tensorflow as tf
@@ -75,9 +83,3 @@ if __name__ == '__main__':
 
   print(model.evaluate(X_train, y_train))
   print(model.evaluate(X_test, y_test))
-  '''
-  multi classes classification
-  500 epochs
-  train 0.8102825284004211
-  dev 0.7362831830978394
-  '''
