@@ -5,23 +5,6 @@ to classify stock price changes based on intersections of financial statements.
 Experimental result shows that, after 500 epochs:
 the accuracy on training set is 0.9504834413528442;
 the accuracy on dev set is 0.43157893419265747;
-
-
-with only l2 regulization:
-95/95 [==============================] - 0s 2ms/step - loss: 1.3504 - categorical_accuracy: 0.4008
-[1.3503810167312622, 0.4007910490036011]
-24/24 [==============================] - 0s 2ms/step - loss: 1.3093 - categorical_accuracy: 0.4282
-[1.3092795610427856, 0.4281949996948242]
-
-
-with only normalization layer:
-95/95 [==============================] - 1s 4ms/step - loss: 0.0418 - categorical_accuracy: 0.9845
-[0.04178568348288536, 0.9845088720321655]
-24/24 [==============================] - 0s 4ms/step - loss: 4.1266 - categorical_accuracy: 0.3926
-[4.126617908477783, 0.39262187480926514]
-
-with l2 regulization and normalization layer:
-
 '''
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -30,7 +13,7 @@ import os
 
 if __name__ == '__main__':
   file = '../data/processed_data/combined_filtered_data_intersection.txt'
-  model_path = '../tmp/combined_filtered_data_intersection_neural.model'
+  model_path = '../tmp//combined_filtered_data_intersection_neural.model'
 
   X = []
   y = []
@@ -43,21 +26,22 @@ if __name__ == '__main__':
       if len(data) > 4:
         value = float(data[4])
         if value >= 100:
-          y.append([0,0,0,0,1])
+          y.append([0,0,0,0,0,1])
         elif value >= 50:
-          y.append([0,0,0,1,0])
+          y.append([0,0,0,0,1,0])
         elif value >= 0:
-          y.append([0,0,1,0,0])
+          y.append([0,0,0,1,0,0])
         elif value >= -50:
-          y.append([0,1,0,0,0])
+          y.append([0,0,1,0,0,0])
+        elif value >= -100:
+          y.append([0,1,0,0,0,0])
         else:
-          y.append([1,0,0,0,0])
+          y.append([1,0,0,0,0,0])
 
         X.append([0.0 if not x else float(x) for x in data[5:]])
 
+  print(len(X))
   X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
-  print(len(X_train))
-  print(len(X_test))
 
   model = None
   if os.path.exists(model_path):
@@ -68,26 +52,23 @@ if __name__ == '__main__':
     input_dim = len(X_train[0])
     model = tf.keras.Sequential([
       tf.keras.layers.InputLayer(input_shape=(input_dim,)),
-      tf.keras.layers.LayerNormalization(),
       tf.keras.layers.Dense(
         1024,
         activation='sigmoid',
         kernel_initializer=tf.keras.initializers.GlorotNormal(),
-        kernel_regularizer='l2',
+        # kernel_regularizer='l2',
       ),
-      tf.keras.layers.LayerNormalization(),
       tf.keras.layers.Dense(
         1024,
         activation='sigmoid',
         kernel_initializer=tf.keras.initializers.GlorotNormal(),
-        kernel_regularizer='l2',
+        # kernel_regularizer='l2',
       ),
-      tf.keras.layers.LayerNormalization(),
       tf.keras.layers.Dense(
-        5,
+        6,
         activation='softmax',
         kernel_initializer=tf.keras.initializers.GlorotNormal(),
-        kernel_regularizer='l2',
+        # kernel_regularizer='l2',
       ),
     ])
     loss_fn = tf.keras.losses.CategoricalCrossentropy()

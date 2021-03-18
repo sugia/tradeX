@@ -2,9 +2,6 @@
 This file combines data from balance sheet, income statement, cash flow statement
 to get intersections, and stores those intersections into
 ../data/processed_data/combined_filtered_data_intersection.txt
-
-balance sheet, income statement, cash flow statement
-30, 21, 21
 '''
 def getMapAndHeaderFromFile(file_path):
   # key: (Symbol,Period Ending), value: the rest
@@ -58,4 +55,3 @@ if __name__ == '__main__':
         ','.join(income_statement[k]) + ',' +
         ','.join(cash_flow_statement[k]) +
         '\n')
-      print(len(balance_sheet[k]), len(income_statement[k]), len(cash_flow_statement[k]))
