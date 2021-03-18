@@ -1,5 +1,13 @@
 # tradeX
 
+Models described in paper are located in:
+A. ./model/model_lstm256_dropout_dense256_dropout.py
+B. ./model/model_lstm512_dropout_dense512_dropout.py
+C. ./model/model_lstm128_dropout_dense128_dropout.py
+D. ./model/model_lstm256_dense256.py
+E. ./model/model_lstm256_dropout_lstm256_dropout_dense256_dropout.py
+F. ./model/model_lstm256_dropout_dense256_dropout_dense256_dropout.py
+
 This project trains models to predict long term stock performance based on financial statements.
 
 This is a cs230 project. It contains code blocks of:
