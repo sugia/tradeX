@@ -186,7 +186,7 @@ def train():
 
   print('~~~~~ start model fit')
   model.summary()
-  model.fit(X_train, y_train, epochs=50, batch_size=32)
+  model.fit(X_train, y_train, epochs=500, batch_size=32)
   model.save(model_path)
 
   print(model.evaluate(X_train, y_train))
