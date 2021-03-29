@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $193,528 $146,248 $72,923 $77,476
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $158,228 $193,528 $146,248 $72,923
 Cash Flows-Operating Activities
-Depreciation $32,077 $19,617 $24,338 $25,304
-Net Income Adjustments $13,632 $53,501 $13,505 $7,771
+Depreciation $34,709 $32,077 $19,617 $24,338
+Net Income Adjustments $73,258 $15,237 $53,501 $13,505
 Changes in Operating Activities
-Accounts Receivable $12,910 $24,005 $5,352 -$1,898
+Accounts Receivable $103,916 $11,816 $24,005 $5,352
 Changes in Inventories $0 $0 $0 $0
 Other Operating Activities $0 $0 $0 $0
-Liabilities -$57,348 -$26,606 -$5,785 -$14,810
-Net Cash Flow-Operating $194,799 $216,765 $110,333 $93,843
+Liabilities -$138,189 -$57,859 -$26,606 -$5,785
+Net Cash Flow-Operating $231,922 $194,799 $216,765 $110,333
 Cash Flows-Investing Activities
-Capital Expenditures -$15,892 $1,698 -$9,261 -$6,339
-Investments -$467,779 -$938,224 -$886,244 -$710,745
-Other Investing Activities $58,270 $166,487 $9,752 $1,967
-Net Cash Flows-Investing -$425,401 -$770,039 -$885,753 -$715,117
+Capital Expenditures -$29,573 -$15,892 $1,698 -$9,261
+Investments -$1,897,825 -$467,779 -$938,224 -$886,244
+Other Investing Activities $9,092 $58,270 $166,487 $9,752
+Net Cash Flows-Investing -$1,918,306 -$425,401 -$770,039 -$885,753
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$78,292 $817 $1,037 -$31,748
-Net Borrowings -$542,843 $243,645 $227,371 $308,304
-Other Financing Activities $1,104,915 $428,639 $602,541 $414,967
-Net Cash Flows-Financing $405,435 $615,100 $795,556 $657,851
+Sale and Purchase of Stock $117,490 -$78,292 $817 $1,037
+Net Borrowings -$704,981 -$542,843 $243,645 $227,371
+Other Financing Activities $2,415,655 $1,104,915 $428,639 $602,541
+Net Cash Flows-Financing $1,743,646 $405,435 $615,100 $795,556
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow $174,833 $61,826 $20,136 $36,577
+Net Cash Flow $57,262 $174,833 $61,826 $20,136

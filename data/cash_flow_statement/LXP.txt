@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $279,910 $227,415 $85,583 $95,624
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $183,302 $279,910 $227,415 $85,583
 Cash Flows-Operating Activities
-Depreciation $154,085 $172,088 $177,561 $170,038
-Net Income Adjustments -$254,062 -$180,221 -$38,117 -$24,004
+Depreciation $168,023 $154,085 $172,088 $177,561
+Net Income Adjustments -$157,384 -$254,062 -$180,221 -$38,117
 Changes in Operating Activities
-Accounts Receivable $3,098 -$1,020 -$1,125 -$849
-Changes in Inventories $3,770 -$3,942 $2,922 -$1,825
+Accounts Receivable $4,725 $3,098 -$1,020 -$1,125
+Changes in Inventories $80 $3,770 -$3,942 $2,922
 Other Operating Activities $0 $0 $0 $0
 Liabilities $0 $0 $0 $0
-Net Cash Flow-Operating $192,184 $217,811 $227,870 $239,810
+Net Cash Flow-Operating $201,835 $192,184 $217,811 $227,870
 Cash Flows-Investing Activities
-Capital Expenditures -$691,171 -$331,465 -$657,029 -$304,397
-Investments $8,284 -$7,636 $156,628 -$47,699
-Other Investing Activities $495,922 $893,992 $217,327 $363,480
-Net Cash Flows-Investing -$186,965 $554,891 -$283,074 $11,384
+Capital Expenditures -$682,975 -$691,171 -$331,465 -$657,029
+Investments $906 $8,284 -$7,636 $156,628
+Other Investing Activities $187,719 $495,922 $893,992 $217,327
+Net Cash Flows-Investing -$494,350 -$186,965 $554,891 -$283,074
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $194,912 -$50,035 $8,853 $3,213
-Net Borrowings -$118,957 -$478,605 $217,397 -$65,649
-Other Financing Activities -$3,505 -$5 -$1,326 -$5,603
-Net Cash Flows-Financing -$53,156 -$707,611 $49,581 -$237,301
+Sale and Purchase of Stock $212,633 $194,912 -$50,035 $8,853
+Net Borrowings $261,376 -$118,957 -$478,605 $217,397
+Other Financing Activities -$11,094 -$3,505 -$5 -$1,326
+Net Cash Flows-Financing $342,626 -$53,156 -$707,611 $49,581
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$47,937 $65,091 -$5,623 $13,893
+Net Cash Flow $50,111 -$47,937 $65,091 -$5,623

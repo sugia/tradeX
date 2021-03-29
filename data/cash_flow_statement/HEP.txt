@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $224,884 $178,847 $195,040 $158,241
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $170,483 $224,884 $178,847 $195,040
 Cash Flows-Operating Activities
-Depreciation $99,786 $101,533 $82,341 $73,675
-Net Income Adjustments -$33,076 $2,858 -$20,378 $1,337
+Depreciation $102,897 $99,786 $101,533 $82,341
+Net Income Adjustments $29,996 -$33,076 $2,858 -$20,378
 Changes in Operating Activities
-Accounts Receivable $9,891 $3,122 -$16,842 $19,074
-Changes in Inventories -$9,329 $5,186 -$8,977 -$9,801
+Accounts Receivable -$2,452 $9,891 $3,122 -$16,842
+Changes in Inventories $5,932 -$9,329 $5,186 -$8,977
 Other Operating Activities $0 $0 $0 $0
-Liabilities -$3,307 -$3,873 $432 $1,673
-Net Cash Flow-Operating $297,061 $295,213 $238,487 $243,548
+Liabilities $31 -$3,307 -$3,873 $432
+Net Cash Flow-Operating $315,627 $297,061 $295,213 $238,487
 Cash Flows-Investing Activities
-Capital Expenditures -$30,112 -$47,300 -$44,810 -$59,704
-Investments -$16,680 -$202 -$242,312 -$39,634
-Other Investing Activities $532 -$4,841 $849 -$43,692
-Net Cash Flows-Investing -$46,260 -$52,343 -$286,273 -$143,030
+Capital Expenditures -$59,283 -$30,112 -$47,300 -$44,810
+Investments -$1,556 -$16,680 -$202 -$242,312
+Other Investing Activities $1,089 $532 -$4,841 $849
+Net Cash Flows-Investing -$59,750 -$46,260 -$52,343 -$286,273
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $2,060 $114,452 $51,702 $176,188
-Net Borrowings $40,029 -$89,000 $251,000 $235,000
-Other Financing Activities -$423 -$580 -$340 -$2,535
-Net Cash Flows-Financing -$240,559 -$247,601 $51,905 -$111,874
+Sale and Purchase of Stock $24,189 $2,060 $114,452 $51,702
+Net Borrowings -$78,102 $40,029 -$89,000 $251,000
+Other Financing Activities -$334 -$423 -$580 -$340
+Net Cash Flows-Financing -$247,174 -$240,559 -$247,601 $51,905
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow $10,242 -$4,731 $4,119 -$11,356
+Net Cash Flow $8,703 $10,242 -$4,731 $4,119

@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $21,512,000 $22,594,000 $11,672,000 $48,158,000
-Cost of Revenue $14,056,000 $15,302,000 $9,558,000 $37,668,000
-Gross Profit $7,456,000 $7,292,000 $2,114,000 $10,490,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $20,397,000 $21,512,000 $22,594,000 $11,672,000
+Cost of Revenue $13,522,000 $14,056,000 $15,302,000 $9,558,000
+Gross Profit $6,875,000 $7,456,000 $7,292,000 $2,114,000
 Operating Expenses
-Research and Development $955,000 $1,070,000 $657,000 $1,593,000
-Sales, General and Admin. $2,663,000 $3,028,000 $1,615,000 $2,953,000
-Non-Recurring Items $2,831,000 $2,034,000 $1,295,000 $2,057,000
-Other Operating Items $1,050,000 $1,044,000 $505,000 $544,000
-Operating Income -$43,000 $116,000 -$1,958,000 $3,343,000
-Add'l income/expense items $153,000 $92,000 $66,000 $1,486,000
-Earnings Before Interest and Tax $194,000 $655,000 -$1,525,000 $5,271,000
-Interest Expense $668,000 $55,000 $0 $858,000
-Earnings Before Tax -$474,000 $600,000 -$1,525,000 $4,413,000
-Income Tax $140,000 $195,000 -$1,758,000 $9,000
-Minority Interest $84,000 $447,000 $367,000 $442,000
-Equity Earnings/Loss Unconsolidated Subsidiary -$102,000 -$155,000 -$132,000 -$86,000
-Net Income-Cont. Operations -$614,000 $405,000 $233,000 $4,404,000
-Net Income $600,000 $4,000,000 $1,291,000 $4,318,000
-Net Income Applicable to Common Shareholders $498,000 $3,845,000 $1,159,000 $3,978,000
+Research and Development $860,000 $955,000 $1,070,000 $657,000
+Sales, General and Admin. $2,235,000 $2,663,000 $3,028,000 $1,615,000
+Non-Recurring Items $4,657,000 $2,831,000 $2,034,000 $1,295,000
+Other Operating Items $2,119,000 $1,050,000 $1,044,000 $505,000
+Operating Income -$2,996,000 -$43,000 $116,000 -$1,958,000
+Add'l income/expense items $675,000 $153,000 $92,000 $66,000
+Earnings Before Interest and Tax -$2,130,000 $194,000 $655,000 -$1,525,000
+Interest Expense $767,000 $668,000 $55,000 $0
+Earnings Before Tax -$2,897,000 -$474,000 $600,000 -$1,525,000
+Income Tax -$23,000 $140,000 $195,000 -$1,758,000
+Minority Interest $191,000 $84,000 $447,000 $367,000
+Equity Earnings/Loss Unconsolidated Subsidiary -$28,000 -$102,000 -$155,000 -$132,000
+Net Income-Cont. Operations -$2,874,000 -$614,000 $405,000 $233,000
+Net Income -$2,923,000 $600,000 $4,000,000 $1,291,000
+Net Income Applicable to Common Shareholders -$2,951,000 $498,000 $3,845,000 $1,159,000

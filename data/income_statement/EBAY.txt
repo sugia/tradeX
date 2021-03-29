@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $10,800,000 $10,746,000 $9,927,000 $9,298,000
-Cost of Revenue $2,508,000 $2,382,000 $2,221,000 $2,004,000
-Gross Profit $8,292,000 $8,364,000 $7,706,000 $7,294,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $10,271,000 $8,636,000 $8,650,000 $9,927,000
+Cost of Revenue $2,473,000 $2,136,000 $2,023,000 $2,221,000
+Gross Profit $7,798,000 $6,500,000 $6,627,000 $7,706,000
 Operating Expenses
-Research and Development $1,240,000 $1,285,000 $1,224,000 $1,114,000
-Sales, General and Admin. $4,683,000 $4,808,000 $4,180,000 $3,821,000
+Research and Development $1,087,000 $976,000 $1,051,000 $1,224,000
+Sales, General and Admin. $3,973,000 $3,635,000 $3,802,000 $4,180,000
 Non-Recurring Items $0 $0 $0 $0
-Other Operating Items $48,000 $49,000 $38,000 $34,000
-Operating Income $2,321,000 $2,222,000 $2,264,000 $2,325,000
+Other Operating Items $27,000 $28,000 $22,000 $38,000
+Operating Income $2,711,000 $1,861,000 $1,752,000 $2,264,000
 Add'l income/expense items $0 $0 $0 $0
-Earnings Before Interest and Tax $2,207,000 $2,718,000 $2,275,000 $3,651,000
+Earnings Before Interest and Tax $3,420,000 $1,749,000 $2,249,000 $2,275,000
 Interest Expense $0 $0 $0 $0
-Earnings Before Tax $2,207,000 $2,718,000 $2,275,000 $3,651,000
-Income Tax $415,000 $190,000 $3,288,000 -$3,634,000
+Earnings Before Tax $3,420,000 $1,749,000 $2,249,000 $2,275,000
+Income Tax $878,000 $233,000 $121,000 $3,288,000
 Minority Interest $0 $0 $0 $0
 Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 $0
-Net Income-Cont. Operations $1,792,000 $2,528,000 -$1,013,000 $7,285,000
-Net Income $1,786,000 $2,530,000 -$1,017,000 $7,266,000
-Net Income Applicable to Common Shareholders $1,786,000 $2,530,000 -$1,017,000 $7,266,000
+Net Income-Cont. Operations $2,542,000 $1,516,000 $2,128,000 -$1,013,000
+Net Income $5,667,000 $1,786,000 $2,530,000 -$1,017,000
+Net Income Applicable to Common Shareholders $5,667,000 $1,786,000 $2,530,000 -$1,017,000

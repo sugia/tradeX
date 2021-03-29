@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $1,065,300 $1,111,000 $1,094,900 $987,100
-Cost of Revenue $995,700 $974,100 $942,000 $884,900
-Gross Profit $69,600 $136,900 $152,900 $102,200
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $1,241,700 $1,065,300 $1,111,000 $1,094,900
+Cost of Revenue $991,400 $995,700 $974,100 $942,000
+Gross Profit $250,300 $69,600 $136,900 $152,900
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $85,400 $63,600 $58,600 $38,000
-Non-Recurring Items $322,300 $39,200 -$485,700 $31,700
+Sales, General and Admin. $122,800 $85,400 $63,600 $58,600
+Non-Recurring Items -$17,900 $322,300 $39,200 -$485,700
 Other Operating Items $0 $0 $0 $0
-Operating Income -$338,100 $34,100 $580,000 $32,500
-Add'l income/expense items $25,600 -$8,700 $24,000 $81,800
-Earnings Before Interest and Tax -$313,900 $23,900 $619,000 $120,400
-Interest Expense $14,400 $8,800 $10,900 $25,200
-Earnings Before Tax -$328,300 $15,100 $608,100 $95,200
-Income Tax $30,400 $38,000 $97,600 $33,400
-Minority Interest -$1,400 -$1,500 $15,000 $6,100
+Operating Income $145,400 -$338,100 $34,100 $580,000
+Add'l income/expense items -$21,700 $25,600 -$8,700 $24,000
+Earnings Before Interest and Tax $122,100 -$313,900 $23,900 $619,000
+Interest Expense $23,300 $14,400 $8,800 $10,900
+Earnings Before Tax $98,800 -$328,300 $15,100 $608,100
+Income Tax $44,100 $30,400 $38,000 $97,600
+Minority Interest -$1,600 -$1,400 -$1,500 $15,000
 Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 $0
-Net Income-Cont. Operations -$358,700 -$22,900 $525,500 $67,900
-Net Income -$398,000 -$19,700 $510,500 $61,800
-Net Income Applicable to Common Shareholders -$398,000 -$19,700 $510,500 $61,800
+Net Income-Cont. Operations $54,700 -$358,700 -$22,900 $525,500
+Net Income $58,800 -$398,000 -$19,700 $510,500
+Net Income Applicable to Common Shareholders $58,800 -$398,000 -$19,700 $510,500

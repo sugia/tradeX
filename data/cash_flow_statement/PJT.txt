@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $29,562 $27,170 -$32,554 -$3,034
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $117,549 $29,562 $27,170 -$32,554
 Cash Flows-Operating Activities
-Depreciation $32,808 $9,973 $8,143 $14,026
-Net Income Adjustments $126,643 $110,867 $144,569 $96,145
+Depreciation $36,360 $32,808 $9,973 $8,143
+Net Income Adjustments $124,952 $126,643 $110,867 $144,569
 Changes in Operating Activities
-Accounts Receivable $16,838 -$2,297 -$45,974 $62,250
-Changes in Inventories -$11,059 -$36,593 $41,179 -$64,853
+Accounts Receivable $107,281 $16,838 -$2,297 -$45,974
+Changes in Inventories -$4,943 -$11,059 -$36,593 $41,179
 Other Operating Activities $0 $0 $0 $0
-Liabilities -$17,612 -$1,568 -$8,376 $4,175
-Net Cash Flow-Operating $211,405 $122,940 $111,215 $116,851
+Liabilities -$6,490 -$17,612 -$1,568 -$8,376
+Net Cash Flow-Operating $469,586 $211,405 $122,940 $111,215
 Cash Flows-Investing Activities
-Capital Expenditures -$8,811 -$7,206 -$1,062 -$13,088
-Investments -$394 $37,176 -$37,175 $538
-Other Investing Activities $7,485 -$61,463 $0 $0
-Net Cash Flows-Investing -$1,720 -$31,493 -$38,237 -$12,550
+Capital Expenditures -$8,854 -$8,811 -$7,206 -$1,062
+Investments -$136,898 -$394 $37,176 -$37,175
+Other Investing Activities $0 $7,485 -$61,463 $0
+Net Cash Flows-Investing -$145,752 -$1,720 -$31,493 -$38,237
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$47,812 -$64,870 -$2,302 $0
-Net Borrowings -$8,645 $29,894 -$97 -$88
-Other Financing Activities -$40,189 -$91,385 -$73,444 -$28,701
-Net Cash Flows-Financing -$101,291 -$130,680 -$79,639 -$32,517
-Effect of Exchange Rate $1,446 -$276 -$151 -$2,502
-Net Cash Flow $109,840 -$39,509 -$6,812 $69,282
+Sale and Purchase of Stock -$48,674 -$47,812 -$64,870 -$2,302
+Net Borrowings -$21,644 -$8,645 $29,894 -$97
+Other Financing Activities -$169,284 -$40,189 -$91,385 -$73,444
+Net Cash Flows-Financing -$244,421 -$101,291 -$130,680 -$79,639
+Effect of Exchange Rate $4,150 $1,446 -$276 -$151
+Net Cash Flow $83,563 $109,840 -$39,509 -$6,812

@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $677,918 $570,267 $811,665 $508,892
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $683,451 $677,918 $570,267 $811,665
 Cash Flows-Operating Activities
-Depreciation $272,287 $282,580 $283,278 $249,672
-Net Income Adjustments $74,914 -$7,780 -$404,731 -$149,913
+Depreciation $279,051 $272,287 $282,580 $283,278
+Net Income Adjustments $5,953 $96,350 $18,153 -$404,731
 Changes in Operating Activities
-Accounts Receivable $10,757 $124,204 $97,274 $203,696
-Changes in Inventories -$7,903 -$87,573 -$43,450 -$74,049
-Other Operating Activities -$56,870 -$85,052 $605 -$3,287
-Liabilities -$25,797 -$21,716 $43,301 $103,100
-Net Cash Flow-Operating $945,306 $789,193 $739,409 $734,596
+Accounts Receivable $21,344 -$10,679 $98,271 $97,274
+Changes in Inventories $122,407 -$7,903 -$87,573 -$43,450
+Other Operating Activities $10,519 -$56,870 -$85,052 $605
+Liabilities -$17,915 -$25,797 -$21,716 $43,301
+Net Cash Flow-Operating $1,104,810 $945,306 $789,193 $739,409
 Cash Flows-Investing Activities
-Capital Expenditures -$186,804 -$170,994 -$170,068 -$139,578
+Capital Expenditures -$165,692 -$186,804 -$170,994 -$170,068
 Investments $0 $0 $0 $0
-Other Investing Activities -$197,451 -$74,486 $378,403 -$1,341,164
-Net Cash Flows-Investing -$384,255 -$245,480 $208,335 -$1,480,742
+Other Investing Activities -$315,687 -$197,451 -$74,486 $378,403
+Net Cash Flows-Investing -$481,379 -$384,255 -$245,480 $208,335
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$143,280 -$894,977 -$105,023 $8,431
-Net Borrowings -$93,293 -$360,722 -$182,596 $909,344
-Other Financing Activities -$39,272 $641,431 -$21,355 -$15,700
-Net Cash Flows-Financing -$558,042 -$897,838 -$592,933 $634,336
-Effect of Exchange Rate -$1,977 $10,645 $1,474 -$4,744
-Net Cash Flow $1,032 -$357,743 $404,818 -$13,039
+Sale and Purchase of Stock -$106,279 -$143,280 -$894,977 -$105,023
+Net Borrowings -$84,700 -$93,293 -$360,722 -$182,596
+Other Financing Activities -$30,999 -$39,272 $641,431 -$21,355
+Net Cash Flows-Financing -$506,290 -$558,042 -$897,838 -$592,933
+Effect of Exchange Rate -$1,319 -$1,977 $10,645 $1,474
+Net Cash Flow $115,822 $1,032 -$357,743 $404,818

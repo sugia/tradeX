@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $20,740,000 $18,955,000 $17,162,000 $16,291,000
-Cost of Revenue $11,472,000 $11,165,000 $10,174,000 $9,961,000
-Gross Profit $9,268,000 $7,790,000 $6,988,000 $6,330,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $20,523,000 $20,740,000 $18,955,000 $17,162,000
+Cost of Revenue $11,805,000 $11,472,000 $11,165,000 $10,174,000
+Gross Profit $8,718,000 $9,268,000 $7,790,000 $6,988,000
 Operating Expenses
 Research and Development $0 $0 $0 $0
 Sales, General and Admin. $0 $0 $0 $0
-Non-Recurring Items $0 $0 $0 $0
-Other Operating Items $6,268,000 $5,733,000 $5,949,000 $4,906,000
-Operating Income $2,560,000 $1,753,000 $723,000 $447,000
-Add'l income/expense items -$181,000 -$6,000 $0 -$650,000
-Earnings Before Interest and Tax $2,819,000 $2,051,000 $1,039,000 $774,000
-Interest Expense $259,000 $298,000 $316,000 $327,000
-Earnings Before Tax $2,560,000 $1,753,000 $723,000 $447,000
-Income Tax $475,000 $268,000 $985,000 -$166,000
+Non-Recurring Items $104,000 $0 $0 $0
+Other Operating Items $6,258,000 $6,268,000 $5,733,000 $5,949,000
+Operating Income $2,120,000 $2,560,000 $1,753,000 $723,000
+Add'l income/expense items $0 -$181,000 -$6,000 $0
+Earnings Before Interest and Tax $2,356,000 $2,819,000 $2,051,000 $1,039,000
+Interest Expense $236,000 $259,000 $298,000 $316,000
+Earnings Before Tax $2,120,000 $2,560,000 $1,753,000 $723,000
+Income Tax $383,000 $475,000 $268,000 $985,000
 Minority Interest $0 $0 $0 $0
 Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 $0
-Net Income-Cont. Operations $2,085,000 $1,485,000 -$262,000 $613,000
-Net Income $2,085,000 $1,807,000 -$3,131,000 $896,000
-Net Income Applicable to Common Shareholders $2,064,000 $1,801,000 -$3,131,000 $896,000
+Net Income-Cont. Operations $1,737,000 $2,085,000 $1,485,000 -$262,000
+Net Income $1,737,000 $2,085,000 $1,807,000 -$3,131,000
+Net Income Applicable to Common Shareholders $1,716,000 $2,064,000 $1,801,000 -$3,131,000

@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $1,448,666 $1,602,408 $1,468,922 $1,265,497
-Cost of Revenue $1,319,662 $1,404,142 $1,308,611 $1,124,082
-Gross Profit $129,004 $198,266 $160,311 $141,415
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $1,259,313 $1,448,666 $1,602,408 $1,468,922
+Cost of Revenue $1,144,994 $1,319,662 $1,404,142 $1,308,611
+Gross Profit $114,319 $129,004 $198,266 $160,311
 Operating Expenses
-Research and Development $9,859 $11,146 $10,302 $9,971
-Sales, General and Admin. $137,697 $134,789 $150,676 $144,988
-Non-Recurring Items $9,880 $10,087 $10,484 $8,856
+Research and Development $9,013 $9,859 $11,146 $10,302
+Sales, General and Admin. $130,942 $137,697 $134,789 $150,676
+Non-Recurring Items $9,715 $9,880 $10,087 $10,484
 Other Operating Items $0 $0 $0 $0
-Operating Income -$28,432 $42,244 -$11,151 -$22,400
-Add'l income/expense items $13,525 $8,019 -$11,496 $18,465
-Earnings Before Interest and Tax -$14,907 $50,263 -$22,647 -$3,935
-Interest Expense $33,137 $30,456 $30,229 $32,539
-Earnings Before Tax -$48,044 $19,807 -$52,876 -$36,474
-Income Tax $3,475 $6,762 $11,203 $3,281
+Operating Income -$35,351 -$28,432 $42,244 -$11,151
+Add'l income/expense items $7,774 $12,392 $5,912 -$11,496
+Earnings Before Interest and Tax -$27,577 -$16,040 $48,156 -$22,647
+Interest Expense $30,554 $32,004 $28,349 $30,229
+Earnings Before Tax -$58,131 -$48,044 $19,807 -$52,876
+Income Tax $6,946 $3,475 $6,762 $11,203
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary $3,094 $3,042 $4,037 $2,150
-Net Income-Cont. Operations -$48,425 $16,087 -$60,042 -$37,605
-Net Income -$48,425 $16,087 -$60,042 -$37,605
-Net Income Applicable to Common Shareholders -$50,353 $3,880 -$66,435 -$47,161
+Equity Earnings/Loss Unconsolidated Subsidiary $4,689 $3,094 $3,042 $4,037
+Net Income-Cont. Operations -$60,388 -$48,425 $16,087 -$60,042
+Net Income -$60,388 -$48,425 $16,087 -$60,042
+Net Income Applicable to Common Shareholders -$60,388 -$50,353 $3,880 -$66,435

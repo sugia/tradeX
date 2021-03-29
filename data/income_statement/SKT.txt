@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $478,348 $494,681 $488,234 $465,834
-Cost of Revenue $157,734 $160,457 $155,235 $152,017
-Gross Profit $320,614 $334,224 $332,999 $313,817
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $389,991 $478,348 $494,681 $488,234
+Cost of Revenue $137,135 $157,734 $160,457 $155,235
+Gross Profit $252,856 $320,614 $334,224 $332,999
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $53,790 $44,167 $44,532 $46,696
-Non-Recurring Items $37,610 $49,739 $0 $487
-Other Operating Items $123,314 $131,722 $127,744 $115,357
-Operating Income $105,900 $108,596 $160,723 $151,277
-Add'l income/expense items $40,661 $864 -$25,959 $102,849
-Earnings Before Interest and Tax $146,561 $109,460 $134,764 $254,126
-Interest Expense $61,672 $64,821 $64,825 $60,669
-Earnings Before Tax $84,889 $44,639 $69,939 $193,457
+Sales, General and Admin. $47,733 $53,790 $44,167 $44,532
+Non-Recurring Items $67,226 $37,610 $49,739 $0
+Other Operating Items $117,143 $123,314 $131,722 $127,744
+Operating Income $20,754 $105,900 $108,596 $160,723
+Add'l income/expense items $3,249 $40,661 $864 -$25,959
+Earnings Before Interest and Tax $24,003 $146,561 $109,460 $134,764
+Interest Expense $63,142 $61,672 $64,821 $64,825
+Earnings Before Tax -$39,139 $84,889 $44,639 $69,939
 Income Tax $0 $0 $0 $0
-Minority Interest $7,839 $924 $1,937 $10,872
-Equity Earnings/Loss Unconsolidated Subsidiary -$4,873 -$1,908 -$3,874 -$10,585
-Net Income-Cont. Operations $87,855 $43,655 $32,376 $193,744
-Net Income $87,855 $43,655 $68,002 $193,744
-Net Income Applicable to Common Shareholders $87,855 $43,655 $68,002 $193,744
+Minority Interest $1,126 $7,839 $924 $1,937
+Equity Earnings/Loss Unconsolidated Subsidiary $1,735 -$4,873 -$1,908 -$3,874
+Net Income-Cont. Operations -$36,278 $87,855 $43,655 $32,376
+Net Income -$36,278 $87,855 $43,655 $68,002
+Net Income Applicable to Common Shareholders -$36,278 $87,855 $43,655 $68,002

@@ -1,35 +1,35 @@
-Period Ending: 6/30/2020 6/30/2019 6/30/2018 6/30/2017
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
 Current Assets
-Cash and Cash Equivalents $18,248 $8,028 $5,308 $3,454
-Short-Term Investments $0 $0 $0 $0
-Net Receivables $22,932 $25,970 $22,738 $20,275
-Inventory $35,231 $29,576 $24,533 $26,212
-Other Current Assets $2,049 $1,881 $1,124 $1,330
-Total Current Assets $78,460 $65,455 $53,703 $51,271
+Cash and Cash Equivalents $411,848 $29,033 $24,356 $26,136
+Short-Term Investments $28,883 $127,822 $69,641 $51,419
+Net Receivables $31,100 $27,153 $17,279 $19,564
+Inventory $22,959 $19,781 $13,173 $20,057
+Other Current Assets $4,190 $8,818 $7,258 $4,745
+Total Current Assets $498,980 $212,607 $131,707 $121,921
 Long-Term Assets
 Long-Term Investments $0 $0 $0 $0
-Fixed Assets $22,007 $12,956 $11,192 $10,910
+Fixed Assets $42,320 $44,832 $15,171 $14,057
 Goodwill $0 $0 $0 $0
-Intangible Assets $5,116 $7,232 $7,545 $7,916
-Other Assets $255 $265 $265 $121
-Deferred Asset Charges $0 $0 $564 $644
-Total Assets $105,838 $85,908 $73,269 $70,862
+Intangible Assets $0 $0 $0 $0
+Other Assets $2,895 $2,315 $680 $784
+Deferred Asset Charges $0 $0 $0 $0
+Total Assets $544,195 $259,754 $147,558 $136,762
 Current Liabilities
-Accounts Payable $15,620 $14,372 $9,402 $10,473
-Short-Term Debt / Current Portion of Long-Term Debt $1,794 $0 $0 $0
-Other Current Liabilities $0 $0 $0 $0
-Total Current Liabilities $17,414 $14,372 $9,402 $10,473
-Long-Term Debt $2,110 $0 $0 $3,500
-Other Liabilities $8,301 $292 $414 $0
-Deferred Liability Charges $112 $72 $0 $0
+Accounts Payable $25,545 $30,834 $24,401 $17,233
+Short-Term Debt / Current Portion of Long-Term Debt $0 $0 $0 $0
+Other Current Liabilities $11,554 $14,152 $18,714 $18,686
+Total Current Liabilities $37,099 $44,986 $43,115 $35,919
+Long-Term Debt $172,703 $79,951 $58,396 $48,931
+Other Liabilities $25,602 $29,368 $0 $0
+Deferred Liability Charges $1,843 $1,298 $9,178 $11,803
 Misc. Stocks $0 $0 $0 $0
 Minority Interest $0 $0 $0 $0
-Total Liabilities $27,937 $14,736 $9,816 $13,973
+Total Liabilities $237,247 $155,603 $110,689 $96,653
 Stock Holders Equity
-Common Stocks $212 $212 $212 $212
-Capital Surplus $79,444 $70,924 $59,420 $51,771
-Retained Earnings -$19,521 -$17,067 -$13,069 -$11,732
-Treasury Stock $17,766 $17,103 $16,890 $16,638
-Other Equity $0 $0 $0 $0
-Total Equity $77,901 $71,172 $63,453 $56,889
-Total Liabilities & Equity $105,838 $85,908 $73,269 $70,862
+Common Stocks $4 $4 $3 $2
+Capital Surplus -$542,030 -$431,952 -$391,256 -$313,102
+Retained Earnings $0 $0 $0 $0
+Treasury Stock $848,891 $535,954 $428,162 $353,308
+Other Equity $83 $145 -$40 -$99
+Total Equity $306,948 $104,151 $36,869 $40,109
+Total Liabilities & Equity $544,195 $259,754 $147,558 $136,762

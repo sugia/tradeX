@@ -1,20 +1,20 @@
-Period Ending: 1/3/2020 12/28/2018 12/29/2017 12/30/2016
-Total Revenue $3,264,300 $3,108,400 $2,646,500 $2,362,100
-Cost of Revenue $1,483,400 $1,427,400 $1,268,900 $1,127,600
-Gross Profit $1,780,900 $1,681,000 $1,377,600 $1,234,500
+Period Ending: 1/1/2021 1/3/2020 12/28/2018 12/29/2017
+Total Revenue $3,147,700 $3,264,300 $3,108,400 $2,646,500
+Cost of Revenue $1,392,800 $1,483,400 $1,427,400 $1,268,900
+Gross Profit $1,754,900 $1,780,900 $1,681,000 $1,377,600
 Operating Expenses
-Research and Development $469,700 $446,100 $370,200 $349,600
-Sales, General and Admin. $834,800 $829,600 $701,800 $630,700
-Non-Recurring Items $26,800 $8,200 $6,900 $11,600
-Other Operating Items $73,700 $76,400 $63,000 $62,200
-Operating Income $375,900 $320,700 $235,700 $180,400
-Add'l income/expense items $15,500 $1,800 $8,200 $4,000
-Earnings Before Interest and Tax $427,200 $351,200 $273,400 $202,000
-Interest Expense $82,400 $73,200 $25,200 $25,900
-Earnings Before Tax $344,800 $278,000 $248,200 $176,100
-Income Tax -$169,700 -$5,300 $129,700 $43,900
-Minority Interest $35,800 $28,700 $29,500 $17,600
-Equity Earnings/Loss Unconsolidated Subsidiary -$200 -$500 -$100 $200
-Net Income-Cont. Operations $550,100 $311,500 $147,900 $150,000
-Net Income $514,300 $282,800 $118,400 $132,400
-Net Income Applicable to Common Shareholders $514,300 $282,800 $118,400 $132,400
+Research and Development $475,900 $469,700 $446,100 $370,200
+Sales, General and Admin. $767,900 $834,800 $829,600 $701,800
+Non-Recurring Items $25,800 $26,800 $8,200 $6,900
+Other Operating Items $65,500 $73,700 $76,400 $63,000
+Operating Income $419,800 $375,900 $320,700 $235,700
+Add'l income/expense items $13,400 $15,500 $1,800 $8,200
+Earnings Before Interest and Tax $472,600 $427,200 $351,200 $273,400
+Interest Expense $77,600 $82,400 $73,200 $25,200
+Earnings Before Tax $395,000 $344,800 $278,000 $248,200
+Income Tax $4,400 -$169,700 -$5,300 $129,700
+Minority Interest $39,400 $35,800 $28,700 $29,500
+Equity Earnings/Loss Unconsolidated Subsidiary -$700 -$200 -$500 -$100
+Net Income-Cont. Operations $429,300 $550,100 $311,500 $147,900
+Net Income $389,900 $514,300 $282,800 $118,400
+Net Income Applicable to Common Shareholders $389,900 $514,300 $282,800 $118,400

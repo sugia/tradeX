@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $2,310,000 $2,828,000 $2,734,000 $2,233,400
-Cost of Revenue $2,007,000 $2,084,000 $1,998,000 $1,829,100
-Gross Profit $303,000 $744,000 $736,000 $404,300
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $2,788,000 $2,310,000 $2,828,000 $2,734,000
+Cost of Revenue $1,920,000 $2,007,000 $2,084,000 $1,998,000
+Gross Profit $867,000 $303,000 $744,000 $736,000
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $231,000 $207,000 $194,000 $202,500
-Non-Recurring Items $92,000 $11,000 $9,000 $0
+Sales, General and Admin. $215,000 $231,000 $207,000 $194,000
+Non-Recurring Items $16,000 $92,000 $11,000 $9,000
 Other Operating Items $0 $0 $0 $0
-Operating Income -$20,000 $526,000 $533,000 $210,200
-Add'l income/expense items $6,000 -$4,000 -$14,000 -$4,800
-Earnings Before Interest and Tax -$23,000 $524,000 $510,000 $197,000
-Interest Expense $0 $0 $0 $32,100
-Earnings Before Tax -$23,000 $524,000 $510,000 $164,900
-Income Tax -$13,000 $122,000 $119,000 $19,800
-Minority Interest $0 -$3,000 $0 $5,200
-Equity Earnings/Loss Unconsolidated Subsidiary $5,000 $0 $0 $0
-Net Income-Cont. Operations -$10,000 $399,000 $391,000 $150,300
-Net Income -$5,000 $395,000 $390,000 $149,800
-Net Income Applicable to Common Shareholders -$5,000 $395,000 $390,000 $149,800
+Operating Income $636,000 -$20,000 $526,000 $533,000
+Add'l income/expense items $4,000 $16,000 $14,000 -$14,000
+Earnings Before Interest and Tax $640,000 -$4,000 $540,000 $510,000
+Interest Expense $19,000 $19,000 $16,000 $0
+Earnings Before Tax $621,000 -$23,000 $524,000 $510,000
+Income Tax $125,000 -$13,000 $122,000 $119,000
+Minority Interest $1,000 $0 -$3,000 $0
+Equity Earnings/Loss Unconsolidated Subsidiary $2,000 $5,000 $0 $0
+Net Income-Cont. Operations $497,000 -$10,000 $399,000 $391,000
+Net Income $499,000 -$5,000 $395,000 $390,000
+Net Income Applicable to Common Shareholders $499,000 -$5,000 $395,000 $390,000

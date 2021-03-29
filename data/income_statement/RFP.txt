@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $2,923,000 $3,756,000 $3,513,000 $3,545,000
-Cost of Revenue $2,198,000 $2,549,000 $2,588,000 $2,710,000
-Gross Profit $725,000 $1,207,000 $925,000 $835,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $2,800,000 $2,923,000 $3,756,000 $3,513,000
+Cost of Revenue $2,010,000 $2,198,000 $2,549,000 $2,588,000
+Gross Profit $790,000 $725,000 $1,207,000 $925,000
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $525,000 $640,000 $612,000 $587,000
-Non-Recurring Items $18,000 $121,000 $82,000 $62,000
-Other Operating Items $167,000 $212,000 $204,000 $206,000
-Operating Income $17,000 $379,000 $42,000 -$18,000
-Add'l income/expense items $27,000 $200,000 $28,000 $1,000
-Earnings Before Interest and Tax $42,000 $434,000 $55,000 -$19,000
-Interest Expense $31,000 $47,000 $49,000 $38,000
-Earnings Before Tax $11,000 $387,000 $6,000 -$57,000
-Income Tax $58,000 $152,000 $84,000 $19,000
+Sales, General and Admin. $480,000 $525,000 $640,000 $612,000
+Non-Recurring Items $53,000 $18,000 $121,000 $82,000
+Other Operating Items $169,000 $167,000 $212,000 $204,000
+Operating Income $99,000 $17,000 $379,000 $42,000
+Add'l income/expense items $7,000 $27,000 $200,000 $28,000
+Earnings Before Interest and Tax $95,000 $42,000 $434,000 $55,000
+Interest Expense $34,000 $31,000 $47,000 $49,000
+Earnings Before Tax $61,000 $11,000 $387,000 $6,000
+Income Tax $51,000 $58,000 $152,000 $84,000
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 -$6,000 -$5,000
-Net Income-Cont. Operations -$47,000 $235,000 -$84,000 -$81,000
-Net Income -$47,000 $235,000 -$84,000 -$81,000
-Net Income Applicable to Common Shareholders -$47,000 $235,000 -$84,000 -$81,000
+Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 -$6,000
+Net Income-Cont. Operations $10,000 -$47,000 $235,000 -$84,000
+Net Income $10,000 -$47,000 $235,000 -$84,000
+Net Income Applicable to Common Shareholders $10,000 -$47,000 $235,000 -$84,000

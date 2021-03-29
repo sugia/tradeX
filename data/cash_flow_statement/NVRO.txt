@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income -$103,686 -$49,205 -$36,658 -$31,778
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$83,065 -$103,686 -$49,205 -$36,658
 Cash Flows-Operating Activities
-Depreciation $5,763 $2,630 $2,391 $1,486
-Net Income Adjustments $48,551 $45,454 $36,389 $25,972
+Depreciation $8,506 $5,763 $2,630 $2,391
+Net Income Adjustments $64,960 $48,551 $45,454 $36,389
 Changes in Operating Activities
-Accounts Receivable $2,909 $5,892 $15,078 $7,300
-Changes in Inventories -$2,153 -$12,214 -$13,899 -$32,181
-Other Operating Activities -$938 $3,846 -$16,297 -$27,031
-Liabilities -$2,708 -$3,368 -$1,393 -$2,502
-Net Cash Flow-Operating -$50,225 -$5,708 -$14,273 -$58,503
+Accounts Receivable -$2,570 $2,909 $5,892 $15,078
+Changes in Inventories $3,369 -$2,153 -$12,214 -$13,899
+Other Operating Activities $2,523 -$938 $3,846 -$16,297
+Liabilities $7,468 -$2,708 -$3,368 -$1,393
+Net Cash Flow-Operating $1,191 -$50,225 -$5,708 -$14,273
 Cash Flows-Investing Activities
-Capital Expenditures -$3,472 -$8,217 -$4,327 -$3,368
-Investments $35,802 $14,650 $8,396 -$128,419
+Capital Expenditures -$6,025 -$3,472 -$8,217 -$4,327
+Investments -$363,843 $35,802 $14,650 $8,396
 Other Investing Activities $0 $0 $0 $0
-Net Cash Flows-Investing $32,330 $6,433 $4,069 -$131,787
+Net Cash Flows-Investing -$369,868 $32,330 $6,433 $4,069
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $35,150 $9,496 $12,190 $43,427
-Net Borrowings $0 $0 $0 $146,829
-Other Financing Activities -$3,057 -$1,742 -$991 $0
-Net Cash Flows-Financing $32,093 $7,754 $11,199 $145,164
-Effect of Exchange Rate $259 -$258 $444 -$604
-Net Cash Flow $14,457 $8,221 $1,439 -$45,730
+Sale and Purchase of Stock $224,214 $35,150 $9,496 $12,190
+Net Borrowings $189,750 $0 $0 $0
+Other Financing Activities -$8,564 -$3,057 -$1,742 -$991
+Net Cash Flows-Financing $346,905 $32,093 $7,754 $11,199
+Effect of Exchange Rate $646 $259 -$258 $444
+Net Cash Flow -$21,126 $14,457 $8,221 $1,439

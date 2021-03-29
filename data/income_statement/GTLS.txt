@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $1,299,100 $1,084,300 $842,900 $722,000
-Cost of Revenue $962,300 $788,400 $611,300 $512,300
-Gross Profit $336,800 $295,900 $231,600 $209,700
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $1,177,100 $1,215,500 $1,003,900 $842,900
+Cost of Revenue $845,000 $918,000 $744,800 $611,300
+Gross Profit $332,100 $297,500 $259,100 $231,600
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $216,100 $181,900 $180,900 $158,700
-Non-Recurring Items $0 $0 $0 $1,200
-Other Operating Items $39,800 $21,900 $12,200 $8,800
-Operating Income $80,900 $92,100 $38,500 $41,000
-Add'l income/expense items -$2,800 -$1,700 -$10,100 -$1,800
-Earnings Before Interest and Tax $78,100 $90,400 $28,400 $39,200
-Interest Expense $25,300 $21,400 $17,300 $15,100
-Earnings Before Tax $52,800 $69,000 $11,100 $24,100
-Income Tax $6,000 $13,400 -$16,600 $10,600
-Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary -$400 -$2,000 -$1,500 $3,500
-Net Income-Cont. Operations $46,800 $55,600 $27,700 $13,500
-Net Income $46,400 $88,000 $28,000 $28,200
-Net Income Applicable to Common Shareholders $46,400 $88,000 $28,000 $28,200
+Sales, General and Admin. $178,200 $205,700 $172,700 $180,900
+Non-Recurring Items $16,000 $0 $0 $0
+Other Operating Items $45,700 $39,800 $21,900 $12,200
+Operating Income $92,200 $52,000 $64,500 $38,500
+Add'l income/expense items -$2,400 -$2,600 -$1,400 -$10,100
+Earnings Before Interest and Tax $102,900 $49,300 $63,100 $28,400
+Interest Expense $17,700 $14,700 $21,400 $17,300
+Earnings Before Tax $85,200 $34,600 $41,700 $11,100
+Income Tax $14,900 $2,800 $7,200 -$16,600
+Minority Interest $13,100 -$100 $0 $0
+Equity Earnings/Loss Unconsolidated Subsidiary -$1,400 -$400 -$2,000 -$1,500
+Net Income-Cont. Operations $70,300 $31,800 $34,500 $27,700
+Net Income $308,100 $46,400 $88,000 $28,000
+Net Income Applicable to Common Shareholders $308,100 $46,400 $88,000 $28,000

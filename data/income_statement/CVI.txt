@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $6,364,000 $7,124,000 $5,988,000 $4,782,000
-Cost of Revenue $5,662,000 $6,463,000 $5,716,000 $4,592,000
-Gross Profit $702,000 $661,000 $272,000 $190,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $3,930,000 $6,364,000 $7,124,000 $5,988,000
+Cost of Revenue $4,119,000 $5,662,000 $6,463,000 $5,716,000
+Gross Profit -$189,000 $702,000 $661,000 $272,000
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $117,000 $112,000 $113,000 $110,000
-Non-Recurring Items $0 $0 $0 $0
-Other Operating Items $9,000 $11,000 $11,000 $9,000
-Operating Income $580,000 $532,000 $145,000 $70,000
-Add'l income/expense items $17,000 $9,000 -$1,000 $1,000
-Earnings Before Interest and Tax $593,000 $547,000 $147,000 $72,000
-Interest Expense $102,000 $102,000 $109,000 $83,000
-Earnings Before Tax $491,000 $445,000 $38,000 -$11,000
-Income Tax $129,000 $79,000 -$220,000 -$20,000
+Sales, General and Admin. $86,000 $117,000 $112,000 $113,000
+Non-Recurring Items $41,000 $0 $0 $0
+Other Operating Items $10,000 $9,000 $11,000 $11,000
+Operating Income -$333,000 $580,000 $532,000 $145,000
+Add'l income/expense items $41,000 $17,000 $9,000 -$1,000
+Earnings Before Interest and Tax -$285,000 $593,000 $547,000 $147,000
+Interest Expense $130,000 $102,000 $102,000 $109,000
+Earnings Before Tax -$415,000 $491,000 $445,000 $38,000
+Income Tax -$95,000 $129,000 $79,000 -$220,000
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary $18,000 -$107,000 $5,000 $16,000
-Net Income-Cont. Operations $380,000 $259,000 $263,000 $25,000
-Net Income $380,000 $259,000 $263,000 $25,000
-Net Income Applicable to Common Shareholders $380,000 $259,000 $263,000 $25,000
+Equity Earnings/Loss Unconsolidated Subsidiary $64,000 $18,000 -$107,000 $5,000
+Net Income-Cont. Operations -$256,000 $380,000 $259,000 $263,000
+Net Income -$256,000 $380,000 $259,000 $263,000
+Net Income Applicable to Common Shareholders -$256,000 $380,000 $259,000 $263,000

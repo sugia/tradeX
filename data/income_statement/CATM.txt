@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $1,349,405 $1,345,243 $1,507,599 $1,265,364
-Cost of Revenue $884,979 $897,783 $999,120 $814,087
-Gross Profit $464,426 $447,460 $508,479 $451,277
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $1,093,999 $1,349,405 $1,345,243 $1,507,599
+Cost of Revenue $692,651 $884,979 $897,783 $999,120
+Gross Profit $401,348 $464,426 $447,460 $508,479
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $189,127 $188,363 $402,815 $167,610
-Non-Recurring Items $8,928 $9,777 $29,271 $9,513
-Other Operating Items $179,937 $179,110 $179,902 $127,775
-Operating Income $86,434 $70,210 -$103,509 $146,379
-Add'l income/expense items $4,957 -$20,668 -$16,098 -$14,487
-Earnings Before Interest and Tax $91,391 $49,542 -$119,607 $131,892
-Interest Expense $26,604 $35,429 $35,036 $17,360
-Earnings Before Tax $64,787 $14,113 -$154,643 $114,532
-Income Tax $16,522 $10,457 -$9,292 $26,622
+Sales, General and Admin. $164,197 $189,127 $188,363 $402,815
+Non-Recurring Items $18,279 $8,928 $9,777 $29,271
+Other Operating Items $165,084 $179,937 $179,110 $179,902
+Operating Income $53,788 $86,434 $70,210 -$103,509
+Add'l income/expense items $2,898 $4,957 -$20,668 -$16,098
+Earnings Before Interest and Tax $56,686 $91,391 $49,542 -$119,607
+Interest Expense $37,097 $26,604 $35,429 $35,036
+Earnings Before Tax $19,589 $64,787 $14,113 -$154,643
+Income Tax $452 $16,522 $10,457 -$9,292
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary $9 $20 $1 $81
-Net Income-Cont. Operations $48,274 $3,676 -$145,350 $87,991
-Net Income $48,274 $3,676 -$145,350 $87,991
-Net Income Applicable to Common Shareholders $48,274 $3,676 -$145,350 $87,991
+Equity Earnings/Loss Unconsolidated Subsidiary $7 $9 $20 $1
+Net Income-Cont. Operations $19,144 $48,274 $3,676 -$145,350
+Net Income $19,144 $48,274 $3,676 -$145,350
+Net Income Applicable to Common Shareholders $19,144 $48,274 $3,676 -$145,350

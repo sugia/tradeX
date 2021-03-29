@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $167,596 $146,920 $92,188 $90,930
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$4,852 -$20,001 -$24,989 -$16,305
 Cash Flows-Operating Activities
-Depreciation $8,185 $3,496 $4,832 $3,091
-Net Income Adjustments -$60,477 -$75,100 $123,733 $73,443
+Depreciation $944 $1,195 $2,135 $2,936
+Net Income Adjustments -$6,097 -$8,479 $4,105 -$921
 Changes in Operating Activities
-Accounts Receivable -$12,249 -$41,954 -$12,572 -$16,694
-Changes in Inventories $0 $0 $0 $0
+Accounts Receivable -$4,119 -$3,329 -$18,066 -$3,361
+Changes in Inventories $2,587 -$1,077 $17,971 -$5,845
 Other Operating Activities $0 $0 $0 $0
-Liabilities $683 -$11,849 -$1,139 $13,027
-Net Cash Flow-Operating $163,623 $82,112 $207,042 $163,797
+Liabilities $3,716 $5,603 -$377 $2,146
+Net Cash Flow-Operating -$10,638 -$25,370 -$19,221 -$21,350
 Cash Flows-Investing Activities
-Capital Expenditures -$34,966 -$22,360 -$13,047 -$13,560
-Investments -$493,743 -$643,711 $24,791 -$378,248
-Other Investing Activities $22,799 $162,784 $57,917 $39,815
-Net Cash Flows-Investing -$505,910 -$503,287 $69,661 -$351,993
+Capital Expenditures -$408 -$949 -$765 -$734
+Investments $0 $24 $8,755 $33,052
+Other Investing Activities -$2,160 $12,006 -$4,192 $4,500
+Net Cash Flows-Investing -$2,568 $11,081 $3,798 $36,818
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$62,944 -$6,861 $173 $84,520
-Net Borrowings $216,026 $262,904 -$190,102 -$263,797
-Other Financing Activities $85,925 $496,404 -$77,129 $491,860
-Net Cash Flows-Financing $188,106 $708,833 -$301,474 $282,849
-Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$154,181 $287,658 -$24,771 $94,653
+Sale and Purchase of Stock $10,000 $199 $199 $239
+Net Borrowings -$1,046 $3,900 $0 $0
+Other Financing Activities $7,025 -$4,100 -$261 -$356
+Net Cash Flows-Financing $15,979 -$623 -$62 -$117
+Effect of Exchange Rate $618 -$100 -$920 $1,824
+Net Cash Flow $3,391 -$15,012 -$16,405 $17,175

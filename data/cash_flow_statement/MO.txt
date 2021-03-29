@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income -$1,293,000 $6,963,000 $10,222,000 $14,239,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $4,467,000 -$1,293,000 $6,963,000 $10,222,000
 Cash Flows-Operating Activities
-Depreciation $226,000 $227,000 $209,000 $204,000
-Net Income Adjustments $8,659,000 $97,000 -$3,335,000 -$9,873,000
+Depreciation $257,000 $226,000 $227,000 $209,000
+Net Income Adjustments $2,744,000 $8,659,000 $97,000 -$3,335,000
 Changes in Operating Activities
-Accounts Receivable -$195,000 $1,150,000 -$1,998,000 -$813,000
-Changes in Inventories -$8,000 $0 $10,000 -$27,000
-Other Operating Activities $42,000 -$129,000 -$171,000 -$34,000
-Liabilities $411,000 $79,000 -$41,000 $125,000
-Net Cash Flow-Operating $7,837,000 $8,391,000 $4,901,000 $3,826,000
+Accounts Receivable $145,000 -$195,000 $1,150,000 -$1,998,000
+Changes in Inventories $20,000 -$8,000 $0 $10,000
+Other Operating Activities $2,000 $42,000 -$129,000 -$171,000
+Liabilities $763,000 $411,000 $79,000 -$41,000
+Net Cash Flow-Operating $8,385,000 $7,837,000 $8,391,000 $4,901,000
 Cash Flows-Investing Activities
-Capital Expenditures -$246,000 -$238,000 -$199,000 -$189,000
-Investments -$1,904,000 -$12,800,000 $0 -$1,068,000
-Other Investing Activities -$248,000 $50,000 -$268,000 $4,965,000
-Net Cash Flows-Investing -$2,398,000 -$12,988,000 -$467,000 $3,708,000
+Capital Expenditures -$231,000 -$246,000 -$238,000 -$199,000
+Investments $0 -$1,904,000 -$12,800,000 $0
+Other Investing Activities $88,000 -$248,000 $50,000 -$268,000
+Net Cash Flows-Investing -$143,000 -$2,398,000 -$12,988,000 -$467,000
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$845,000 -$1,673,000 -$2,917,000 -$1,030,000
-Net Borrowings $2,321,000 $11,936,000 $0 $1,043,000
-Other Financing Activities -$119,000 -$132,000 -$47,000 -$830,000
-Net Cash Flows-Financing -$4,712,000 $4,716,000 -$7,771,000 -$5,329,000
+Sale and Purchase of Stock $0 -$845,000 -$1,673,000 -$2,917,000
+Net Borrowings $993,000 $2,321,000 $11,936,000 $0
+Other Financing Activities -$99,000 -$119,000 -$132,000 -$47,000
+Net Cash Flows-Financing -$5,396,000 -$4,712,000 $4,716,000 -$7,771,000
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow $727,000 $119,000 -$3,337,000 $2,205,000
+Net Cash Flow $2,846,000 $727,000 $119,000 -$3,337,000

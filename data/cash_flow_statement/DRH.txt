@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $181,114 $87,784 $91,603 $114,796
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$394,375 $183,487 $87,784 $91,603
 Cash Flows-Operating Activities
-Depreciation $126,839 $109,370 $99,753 $95,049
-Net Income Adjustments -$111,871 $5,440 $18,150 $10,699
+Depreciation $122,057 $126,839 $109,370 $99,753
+Net Income Adjustments $164,879 -$111,871 $5,440 $18,150
 Changes in Operating Activities
-Accounts Receivable $5,866 -$7,997 $17,006 -$20,969
-Changes in Inventories -$5,082 -$5,686 $1,540 -$1,056
+Accounts Receivable -$13,709 $5,866 -$7,997 $17,006
+Changes in Inventories $44,526 -$5,082 -$5,686 $1,540
 Other Operating Activities $0 $0 $0 $0
-Liabilities -$6,674 $28,657 -$26,333 $17,007
-Net Cash Flow-Operating $193,289 $217,580 $201,993 $215,526
+Liabilities -$5,412 -$6,674 $28,657 -$26,333
+Net Cash Flow-Operating -$83,686 $193,289 $217,580 $201,993
 Cash Flows-Investing Activities
-Capital Expenditures -$199,259 -$115,171 -$97,424 -$102,861
-Investments $0 -$259,883 -$93,795 $0
-Other Investing Activities $133,529 $32,466 $9,278 $175,300
-Net Cash Flows-Investing -$65,730 -$342,588 -$181,941 $72,439
+Capital Expenditures -$88,051 -$199,259 -$115,171 -$97,424
+Investments $0 $0 -$259,883 -$93,795
+Other Investing Activities $9,078 $133,529 $32,466 $9,278
+Net Cash Flows-Investing -$78,973 -$65,730 -$342,588 -$181,941
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$42,828 $60,497 $0 -$7,197
-Net Borrowings $106,000 $35,976 $15,636 -$163,756
-Other Financing Activities -$485 -$931 -$537 $0
-Net Cash Flows-Financing -$39,365 -$7,167 -$85,443 -$271,724
+Sale and Purchase of Stock $191,099 -$42,828 $60,497 $0
+Net Borrowings -$43,276 $106,000 $35,976 $15,636
+Other Financing Activities -$1,253 -$485 -$931 -$537
+Net Cash Flows-Financing $117,713 -$39,365 -$7,167 -$85,443
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow $88,194 -$132,175 -$65,391 $16,241
+Net Cash Flow -$44,946 $88,194 -$132,175 -$65,391

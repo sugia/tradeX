@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $983,670 $899,599 $544,276 $264,422
-Cost of Revenue $223,501 $124,210 $80,352 $61,591
-Gross Profit $760,169 $775,389 $463,924 $202,831
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $862,126 $983,670 $899,599 $544,276
+Cost of Revenue $179,187 $223,501 $124,210 $80,352
+Gross Profit $682,939 $760,169 $775,389 $463,924
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $172,327 $145,446 $124,291 $98,135
-Non-Recurring Items $0 $0 $0 $158,633
-Other Operating Items $352,362 $266,672 $178,792 $123,230
-Operating Income $235,480 $363,271 $160,841 -$177,167
-Add'l income/expense items -$3,093 -$29,871 $3,574 $107,273
-Earnings Before Interest and Tax $232,387 $333,400 $164,415 -$69,894
-Interest Expense $73,873 $41,327 $34,565 $28,199
-Earnings Before Tax $158,514 $292,073 $129,850 -$98,093
-Income Tax $35,532 -$7,691 -$8,157 -$1,036
+Sales, General and Admin. $155,916 $172,327 $145,446 $124,291
+Non-Recurring Items $684,743 $0 $0 $0
+Other Operating Items $363,779 $352,362 $266,672 $178,792
+Operating Income -$521,499 $235,480 $363,271 $160,841
+Add'l income/expense items -$968 -$3,093 -$29,871 $3,574
+Earnings Before Interest and Tax -$522,467 $232,387 $333,400 $164,415
+Interest Expense $76,692 $73,873 $41,327 $34,565
+Earnings Before Tax -$599,159 $158,514 $292,073 $129,850
+Income Tax -$45,599 $35,532 -$7,691 -$8,157
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary -$35,205 -$25,557 -$12,140 -$364
-Net Income-Cont. Operations $87,777 $274,207 $125,867 -$97,421
-Net Income $87,777 $274,207 $125,867 -$97,421
-Net Income Applicable to Common Shareholders $87,777 $274,207 $125,867 -$97,421
+Equity Earnings/Loss Unconsolidated Subsidiary -$39,645 -$35,205 -$25,557 -$12,140
+Net Income-Cont. Operations -$593,205 $87,777 $274,207 $125,867
+Net Income -$593,205 $87,777 $274,207 $125,867
+Net Income Applicable to Common Shareholders -$593,205 $87,777 $274,207 $125,867

@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $52,017 $46,803 $19,679 $48,424
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$115,781 $52,017 $46,803 $19,679
 Cash Flows-Operating Activities
-Depreciation $33,049 $35,032 $27,063 $25,790
-Net Income Adjustments -$24,337 $4,021 $15,377 $94
+Depreciation $31,854 $33,049 $35,032 $27,063
+Net Income Adjustments $131,032 -$24,337 $4,021 $15,377
 Changes in Operating Activities
-Accounts Receivable -$38,252 $30,547 $5,756 -$8,269
-Changes in Inventories $34,083 -$47,291 -$9,844 -$14,622
-Other Operating Activities -$12,711 -$14,695 -$18,116 -$2,671
-Liabilities -$1,160 $464 -$2,132 $108
-Net Cash Flow-Operating $42,689 $54,881 $37,783 $48,854
+Accounts Receivable -$50,039 -$38,252 $30,547 $5,756
+Changes in Inventories $53,928 $34,083 -$47,291 -$9,844
+Other Operating Activities -$13,614 -$12,711 -$14,695 -$18,116
+Liabilities -$45 -$1,160 $464 -$2,132
+Net Cash Flow-Operating $37,335 $42,689 $54,881 $37,783
 Cash Flows-Investing Activities
-Capital Expenditures -$12,083 -$16,317 -$13,478 -$13,037
+Capital Expenditures -$7,459 -$12,083 -$16,317 -$13,478
 Investments $0 $0 $0 $0
-Other Investing Activities $76,713 -$3,350 -$116,083 -$1,585
-Net Cash Flows-Investing $64,630 -$19,667 -$129,561 -$14,622
+Other Investing Activities $1,662 $76,713 -$3,350 -$116,083
+Net Cash Flows-Investing -$5,797 $64,630 -$19,667 -$129,561
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$51,329 $2,201 -$31,941 -$13,805
-Net Borrowings -$40,853 -$37,819 $123,366 -$21,835
+Sale and Purchase of Stock -$7,066 -$51,329 $2,201 -$31,941
+Net Borrowings -$17,150 -$40,853 -$37,819 $123,366
 Other Financing Activities $0 $0 $0 $0
-Net Cash Flows-Financing -$92,182 -$36,134 $91,425 -$34,806
-Effect of Exchange Rate $147 -$372 $366 -$86
-Net Cash Flow $15,284 -$1,292 $13 -$660
+Net Cash Flows-Financing -$24,576 -$92,182 -$36,134 $91,425
+Effect of Exchange Rate $1,544 $147 -$372 $366
+Net Cash Flow $8,506 $15,284 -$1,292 $13

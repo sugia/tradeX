@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income -$17,694 -$19,298 -$83,032 -$27,402
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $33,484 -$17,694 -$19,298 -$83,032
 Cash Flows-Operating Activities
-Depreciation $10,316 $9,187 $10,991 $14,506
-Net Income Adjustments $13,817 $11,095 $12,648 $14,285
+Depreciation $13,718 $10,316 $9,187 $10,991
+Net Income Adjustments $17,874 $13,817 $11,095 $12,648
 Changes in Operating Activities
-Accounts Receivable -$32,237 $5,778 -$22,549 $55,135
-Changes in Inventories $20,517 $13,858 -$29,056 -$4,185
-Other Operating Activities $9,998 -$20,639 $13,016 $3,122
-Liabilities -$63 $3,579 $35,210 -$31,042
-Net Cash Flow-Operating $4,654 $3,560 -$62,772 $24,419
+Accounts Receivable $20,586 -$32,237 $5,778 -$22,549
+Changes in Inventories -$22,910 $20,517 $13,858 -$29,056
+Other Operating Activities -$12,116 $9,998 -$20,639 $13,016
+Liabilities $773 -$63 $3,579 $35,210
+Net Cash Flow-Operating $51,409 $4,654 $3,560 -$62,772
 Cash Flows-Investing Activities
-Capital Expenditures -$13,353 -$10,426 -$8,026 -$9,839
-Investments $0 $0 $27,760 $21,922
-Other Investing Activities $0 $10,350 $0 $0
-Net Cash Flows-Investing -$13,353 -$76 $19,734 $12,083
+Capital Expenditures -$7,819 -$13,353 -$10,426 -$8,026
+Investments -$52,982 $0 $0 $27,760
+Other Investing Activities $0 $0 $10,350 $0
+Net Cash Flows-Investing -$60,801 -$13,353 -$76 $19,734
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $8,875 $7,681 $4,940 -$7,142
-Net Borrowings $0 -$115 $29,814 $0
-Other Financing Activities -$167 -$74 -$2,764 -$2,101
-Net Cash Flows-Financing $5,971 $7,492 $31,990 -$9,243
-Effect of Exchange Rate -$89 -$477 $464 -$526
-Net Cash Flow -$2,817 $10,499 -$10,584 $26,733
+Sale and Purchase of Stock $78,190 $8,875 $7,681 $4,940
+Net Borrowings -$30,285 $0 -$115 $29,814
+Other Financing Activities $0 -$167 -$74 -$2,764
+Net Cash Flows-Financing $42,147 $5,971 $7,492 $31,990
+Effect of Exchange Rate $595 -$89 -$477 $464
+Net Cash Flow $33,350 -$2,817 $10,499 -$10,584

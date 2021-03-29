@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $313,098 $324,866 $614,273 $225,741
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $197,853 $313,098 $324,866 $614,273
 Cash Flows-Operating Activities
-Depreciation $35,106 -$22,281 -$33,593 -$57,535
-Net Income Adjustments $27,303 $68,184 $49,362 $13,146
+Depreciation $44,262 $35,106 -$22,281 -$33,593
+Net Income Adjustments $140,275 $23,507 $75,536 $49,362
 Changes in Operating Activities
-Accounts Receivable -$83,016 $82,126 -$41,319 $33,359
+Accounts Receivable -$69,266 -$79,220 $82,126 -$41,319
 Changes in Inventories $0 $0 $0 $0
 Other Operating Activities $0 $0 $0 $0
-Liabilities $17,749 $236,461 -$319,629 $21,371
-Net Cash Flow-Operating $635,706 $824,252 $318,626 $308,510
+Liabilities -$33,383 $17,749 $229,109 -$319,629
+Net Cash Flow-Operating $864,168 $635,706 $824,252 $318,626
 Cash Flows-Investing Activities
-Capital Expenditures -$63,786 -$190,500 -$99,553 -$88,559
-Investments -$991,100 -$1,899,981 -$2,342,401 -$3,759,378
-Other Investing Activities -$20,610 $48,950 -$10,622 $21,706
-Net Cash Flows-Investing -$1,075,496 -$2,041,531 -$2,452,576 -$3,826,231
+Capital Expenditures -$19,597 -$63,786 -$190,500 -$99,553
+Investments -$2,584,311 -$991,100 -$1,899,981 -$2,342,401
+Other Investing Activities -$16,807 -$20,610 $48,950 -$10,622
+Net Cash Flows-Investing -$2,620,715 -$1,075,496 -$2,041,531 -$2,452,576
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$148,213 -$292,245 $62,095 $791
-Net Borrowings -$390,000 $200,000 -$469,000 $1,230,000
-Other Financing Activities $894,686 $1,588,320 $2,378,752 $2,557,567
-Net Cash Flows-Financing $272,390 $1,404,770 $1,880,219 $3,698,534
+Sale and Purchase of Stock -$81,361 -$148,213 -$292,245 $62,095
+Net Borrowings -$986,142 -$390,000 $200,000 -$469,000
+Other Financing Activities $3,093,615 $894,686 $1,588,320 $2,378,752
+Net Cash Flows-Financing $1,939,590 $272,390 $1,404,770 $1,880,219
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$167,400 $187,491 -$253,731 $180,813
+Net Cash Flow $183,043 -$167,400 $187,491 -$253,731

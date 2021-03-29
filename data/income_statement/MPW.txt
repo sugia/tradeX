@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $854,197 $784,522 $704,745 $541,137
-Cost of Revenue $23,992 $9,237 $5,811 $2,712
-Gross Profit $830,205 $775,285 $698,934 $538,425
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $1,249,238 $854,197 $784,522 $704,745
+Cost of Revenue $24,890 $23,992 $9,237 $5,811
+Gross Profit $1,224,348 $830,205 $775,285 $698,934
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $96,411 $80,086 $58,599 $48,911
-Non-Recurring Items $21,031 $48,924 $29,645 $46,273
-Other Operating Items $152,313 $133,083 $125,106 $94,374
-Operating Income $560,450 $513,192 $485,584 $348,867
-Add'l income/expense items $35,109 $715,321 -$24,769 $29,837
-Earnings Before Interest and Tax $373,780 $1,019,404 $293,919 $219,107
+Sales, General and Admin. $131,663 $96,411 $81,003 $58,599
+Non-Recurring Items $19,006 $21,031 $48,007 $29,645
+Other Operating Items $264,245 $152,313 $133,083 $125,106
+Operating Income $809,434 $560,450 $513,192 $485,584
+Add'l income/expense items -$37,795 $35,109 $715,321 -$24,769
+Earnings Before Interest and Tax $463,328 $373,780 $1,019,404 $293,919
 Interest Expense $0 $0 $0 $0
-Earnings Before Tax $373,780 $1,019,404 $293,919 $219,107
-Income Tax -$2,621 $927 $2,681 -$6,830
-Minority Interest $16,051 $14,165 $10,058 $0
-Equity Earnings/Loss Unconsolidated Subsidiary -$1,717 -$1,792 -$1,445 -$889
-Net Income-Cont. Operations $384,629 $1,030,850 $267,277 $202,509
-Net Income $384,629 $1,030,850 $267,277 $202,509
-Net Income Applicable to Common Shareholders $374,684 $1,016,685 $289,793 $225,048
+Earnings Before Tax $463,328 $373,780 $1,019,404 $293,919
+Income Tax $31,056 -$2,621 $927 $2,681
+Minority Interest $20,417 $16,051 $14,165 $10,058
+Equity Earnings/Loss Unconsolidated Subsidiary -$822 -$1,717 -$1,792 -$1,445
+Net Income-Cont. Operations $423,687 $384,629 $1,030,850 $267,277
+Net Income $423,687 $384,629 $1,030,850 $267,277
+Net Income Applicable to Common Shareholders $431,450 $374,684 $1,016,685 $289,793

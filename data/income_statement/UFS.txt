@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $5,220,000 $5,455,000 $5,148,000 $5,090,000
-Cost of Revenue $4,225,000 $4,303,000 $4,145,000 $4,051,000
-Gross Profit $995,000 $1,152,000 $1,003,000 $1,039,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $3,652,000 $4,369,000 $4,565,000 $5,148,000
+Cost of Revenue $3,125,000 $3,610,000 $3,638,000 $4,145,000
+Gross Profit $527,000 $759,000 $927,000 $1,003,000
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $439,000 $443,000 $430,000 $422,000
-Non-Recurring Items $100,000 $15,000 $580,000 $61,000
-Other Operating Items $293,000 $308,000 $321,000 $348,000
-Operating Income $163,000 $386,000 -$328,000 $208,000
-Add'l income/expense items -$23,000 $18,000 $11,000 $15,000
-Earnings Before Interest and Tax $140,000 $404,000 -$317,000 $223,000
-Interest Expense $52,000 $62,000 $66,000 $66,000
-Earnings Before Tax $88,000 $342,000 -$383,000 $157,000
-Income Tax $2,000 $57,000 -$125,000 $29,000
-Minority Interest -$2,000 -$2,000 $0 $0
+Sales, General and Admin. $246,000 $295,000 $291,000 $430,000
+Non-Recurring Items $235,000 $54,000 $0 $580,000
+Other Operating Items $223,000 $231,000 $241,000 $321,000
+Operating Income -$177,000 $179,000 $395,000 -$328,000
+Add'l income/expense items $17,000 -$23,000 $18,000 $11,000
+Earnings Before Interest and Tax -$160,000 $156,000 $413,000 -$317,000
+Interest Expense $58,000 $52,000 $62,000 $66,000
+Earnings Before Tax -$218,000 $104,000 $351,000 -$383,000
+Income Tax -$76,000 $17,000 $68,000 -$125,000
+Minority Interest -$3,000 -$2,000 -$2,000 $0
 Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 $0
-Net Income-Cont. Operations $84,000 $283,000 -$258,000 $128,000
-Net Income $84,000 $283,000 -$258,000 $128,000
-Net Income Applicable to Common Shareholders $84,000 $283,000 -$258,000 $128,000
+Net Income-Cont. Operations -$145,000 $85,000 $281,000 -$258,000
+Net Income -$127,000 $84,000 $283,000 -$258,000
+Net Income Applicable to Common Shareholders -$127,000 $84,000 $283,000 -$258,000

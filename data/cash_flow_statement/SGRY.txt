@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income -$74,800 -$205,700 -$53,000 $9,453
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$116,100 -$74,800 -$205,700 -$53,000
 Cash Flows-Operating Activities
-Depreciation $76,500 $67,400 $51,900 $39,551
-Net Income Adjustments $76,700 $139,600 $61,500 $44,024
+Depreciation $94,800 $76,500 $67,400 $51,900
+Net Income Adjustments $74,900 $76,700 $139,600 $61,500
 Changes in Operating Activities
-Accounts Receivable $0 $0 $0 $0
-Changes in Inventories -$23,500 -$22,800 -$22,700 -$60,622
+Accounts Receivable $135,200 $0 $0 $0
+Changes in Inventories -$46,600 -$23,500 -$22,800 -$22,700
 Other Operating Activities $0 $0 $0 $0
-Liabilities -$45,300 $56,000 $1,500 $17,203
-Net Cash Flow-Operating $129,500 $144,600 $120,900 $125,239
+Liabilities -$12,700 -$45,300 $56,000 $1,500
+Net Cash Flow-Operating $246,900 $129,500 $144,600 $120,900
 Cash Flows-Investing Activities
-Capital Expenditures -$73,600 -$39,800 -$29,600 -$39,109
-Investments -$15,200 $0 $0 $0
-Other Investing Activities $3,600 -$89,100 -$753,800 -$145,640
-Net Cash Flows-Investing -$85,200 -$128,900 -$783,400 -$184,749
+Capital Expenditures -$42,900 -$73,600 -$39,800 -$29,600
+Investments $0 -$15,200 $0 $0
+Other Investing Activities -$45,500 $3,600 -$89,100 -$753,800
+Net Cash Flows-Investing -$88,400 -$85,200 -$128,900 -$783,400
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$3,200 -$4,200 $289,200 -$20,096
-Net Borrowings $16,100 $125,100 $623,600 $176,346
-Other Financing Activities -$18,700 -$7,400 -$1,400 -$4,900
-Net Cash Flows-Financing -$135,900 -$6,300 $767,700 $71,276
+Sale and Purchase of Stock -$27,400 -$3,200 -$4,200 $289,200
+Net Borrowings $213,100 $16,100 $125,100 $623,600
+Other Financing Activities -$900 -$18,700 -$7,400 -$1,400
+Net Cash Flows-Financing $66,700 -$135,900 -$6,300 $767,700
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$91,600 $9,400 $105,200 $11,766
+Net Cash Flow $225,200 -$91,600 $9,400 $105,200

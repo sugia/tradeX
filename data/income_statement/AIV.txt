@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $914,294 $972,410 $1,005,437 $995,854
-Cost of Revenue $311,221 $328,822 $354,584 $354,913
-Gross Profit $603,073 $643,588 $650,853 $640,941
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $151,451 $143,692 $132,163 $1,005,437
+Cost of Revenue $61,514 $57,541 $53,552 $354,584
+Gross Profit $89,937 $86,151 $78,611 $650,853
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $66,129 $50,046 $54,805 $61,079
-Non-Recurring Items $0 $0 $35,881 $0
-Other Operating Items $380,171 $377,786 $366,184 $333,066
-Operating Income $156,773 $215,756 $193,983 $246,796
-Add'l income/expense items $516,123 $688,377 $309,181 $414,024
-Earnings Before Interest and Tax $673,699 $904,210 $510,858 $660,820
-Interest Expense $168,807 $200,634 $194,615 $196,389
-Earnings Before Tax $504,892 $703,576 $316,243 $464,431
-Income Tax -$3,135 -$13,027 -$30,836 -$18,842
-Minority Interest $803 $77 $7,694 $0
-Equity Earnings/Loss Unconsolidated Subsidiary -$33,944 -$50,376 -$31,305 -$52,863
-Net Income-Cont. Operations $474,886 $666,304 $323,468 $430,410
-Net Income $474,083 $666,227 $315,774 $430,410
-Net Income Applicable to Common Shareholders $466,144 $656,597 $306,861 $417,781
+Sales, General and Admin. $10,469 $7,062 $5,766 $54,805
+Non-Recurring Items $15,860 $0 $0 $35,881
+Other Operating Items $77,965 $64,030 $49,375 $366,184
+Operating Income -$14,357 $15,059 $23,470 $193,983
+Add'l income/expense items $25,141 -$584 -$1,095 $309,181
+Earnings Before Interest and Tax $11,592 $15,410 $23,315 $510,858
+Interest Expense $27,512 $18,598 $19,643 $194,615
+Earnings Before Tax -$15,920 -$3,188 $3,672 $316,243
+Income Tax -$10,149 -$3,301 $261 -$30,836
+Minority Interest $808 $935 $940 $7,694
+Equity Earnings/Loss Unconsolidated Subsidiary $730 $191 -$168 -$31,305
+Net Income-Cont. Operations -$4,233 $1,239 $4,183 $323,468
+Net Income -$4,233 $1,239 $4,183 $315,774
+Net Income Applicable to Common Shareholders -$5,041 $304 $3,243 $306,861

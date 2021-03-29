@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income -$14,974 -$2,332 $18,009 $19,428
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$48,255 $17,828 $96,499 $15,578
 Cash Flows-Operating Activities
-Depreciation $16,382 $14,619 $11,208 $10,048
-Net Income Adjustments $24,650 $768 $1,065 -$1,747
+Depreciation $90,323 $80,229 $44,656 $28,968
+Net Income Adjustments $94,722 $95,194 $7,162 $45,887
 Changes in Operating Activities
-Accounts Receivable -$4,363 $2,235 $7,118 $2,994
-Changes in Inventories -$332 -$1,485 -$3,586 -$2,809
-Other Operating Activities $2,914 $1,911 -$579 -$2,067
-Liabilities $844 $4,179 -$2,407 $2,667
-Net Cash Flow-Operating $25,121 $19,895 $30,828 $28,514
+Accounts Receivable -$33,800 -$14,822 -$7,642 $31,108
+Changes in Inventories $21,861 -$22,457 -$16,820 -$11,381
+Other Operating Activities $0 $0 $0 $0
+Liabilities -$86,282 -$12,053 -$13,143 -$11,429
+Net Cash Flow-Operating $111,299 $157,174 $123,948 $103,538
 Cash Flows-Investing Activities
-Capital Expenditures -$10,079 -$25,285 -$51,584 -$40,495
-Investments $27 $0 $0 -$14
-Other Investing Activities $4,021 $5,414 -$107 $0
-Net Cash Flows-Investing -$6,031 -$19,871 -$51,691 -$40,509
+Capital Expenditures -$42,149 -$20,041 -$14,907 -$8,040
+Investments -$80,000 $0 $0 $0
+Other Investing Activities $0 -$81,019 -$368,131 -$66,395
+Net Cash Flows-Investing -$122,149 -$101,060 -$383,038 -$74,435
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$305 $860 -$81 $11
-Net Borrowings -$19,375 $2,823 $15,583 $1,750
-Other Financing Activities $0 $0 $0 $0
-Net Cash Flows-Financing -$19,680 $3,683 $15,502 $1,761
+Sale and Purchase of Stock $61,180 -$5,470 -$94,203 $23,509
+Net Borrowings $281,727 -$50,000 $125,000 $300,000
+Other Financing Activities -$8,849 -$29,690 -$25,371 $1,602
+Net Cash Flows-Financing $193,290 -$87,678 $4,843 $253,125
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$590 $3,707 -$5,361 -$10,234
+Net Cash Flow $109,710 -$44,819 -$267,483 $277,421

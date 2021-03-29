@@ -31,12 +31,12 @@ https://www.nasdaq.com/market-activity/stocks/screener
 '''
 SYMBOL_FILE = '../data/symbol/nasdaq.csv'
 HISTORICAL_PREFIX = 'http://nasdaq.com/api/v1/historical/'
-HISTORICAL_SUFFIX = '/stocks/2011-01-20/2021-01-20'
+HISTORICAL_SUFFIX = '/stocks/2011-03-24/2021-03-24'
 
-DOWNLOAD_FILENAME = '~/Downloads/HistoricalQuotes.csv'
-HISTORICAL_DIR = '~/Desktop/traderX/data/historical_price/'
+DOWNLOAD_FILENAME = '/Users/steve/Downloads/HistoricalQuotes.csv'
+HISTORICAL_DIR = '/Users/steve/Desktop/tradeX/data/historical_price/'
 
-START_FROM_SYMBOL = 'A'
+START_FROM_SYMBOL = 'PSFF'
 RANDOM_SLEEP_LOWER_BOUND = 0
 RANDOM_SLEEP_UPPER_BOUND = 5
 
@@ -55,6 +55,7 @@ if __name__ == '__main__':
         if not start_parsing:
           continue
 
+        print(symbol)
         url = HISTORICAL_PREFIX + symbol + HISTORICAL_SUFFIX
         driver.get(url)
 

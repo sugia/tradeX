@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $1,273,000 $1,907,000 $1,459,000 $808,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$267,000 $1,273,000 $1,907,000 $1,459,000
 Cash Flows-Operating Activities
-Depreciation $403,000 $284,000 $279,000 $159,000
-Net Income Adjustments $282,000 $242,000 $519,000 $758,000
+Depreciation $478,000 $403,000 $284,000 $279,000
+Net Income Adjustments $1,456,000 $282,000 $242,000 $519,000
 Changes in Operating Activities
 Accounts Receivable $0 $0 $0 $0
 Changes in Inventories $0 $0 $0 $0
 Other Operating Activities $0 $0 $0 $0
-Liabilities -$273,000 -$76,000 -$30,000 -$106,000
-Net Cash Flow-Operating $1,685,000 $2,357,000 $2,227,000 $1,619,000
+Liabilities -$28,000 -$273,000 -$76,000 -$30,000
+Net Cash Flow-Operating $1,639,000 $1,685,000 $2,357,000 $2,227,000
 Cash Flows-Investing Activities
-Capital Expenditures -$653,000 -$556,000 -$240,000 -$199,000
-Investments $21,000 $35,000 $94,000 $35,000
-Other Investing Activities $348,000 $469,000 $1,357,000 -$2,182,000
-Net Cash Flows-Investing -$284,000 -$52,000 $1,211,000 -$2,346,000
+Capital Expenditures -$135,000 -$653,000 -$556,000 -$240,000
+Investments -$33,000 $21,000 $35,000 $94,000
+Other Investing Activities $203,000 $348,000 $469,000 $1,357,000
+Net Cash Flows-Investing $35,000 -$284,000 -$52,000 $1,211,000
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$2,253,000 -$2,846,000 -$3,007,000 -$534,000
-Net Borrowings $1,513,000 $1,120,000 -$250,000 $2,529,000
-Other Financing Activities -$8,000 $0 $0 -$24,000
-Net Cash Flows-Financing -$1,508,000 -$2,374,000 -$3,896,000 $1,497,000
+Sale and Purchase of Stock -$150,000 -$2,253,000 -$2,846,000 -$3,007,000
+Net Borrowings -$616,000 $1,513,000 $1,120,000 -$250,000
+Other Financing Activities -$8,000 -$8,000 $0 $0
+Net Cash Flows-Financing -$1,033,000 -$1,508,000 -$2,374,000 -$3,896,000
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$107,000 -$69,000 -$458,000 $770,000
+Net Cash Flow $641,000 -$107,000 -$69,000 -$458,000

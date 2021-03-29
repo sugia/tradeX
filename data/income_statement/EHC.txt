@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $4,605,000 $4,277,300 $3,913,900 $3,642,600
-Cost of Revenue $250,200 $236,700 $222,800 $211,300
-Gross Profit $4,354,800 $4,040,600 $3,691,100 $3,431,300
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $4,644,400 $4,605,000 $4,277,300 $3,913,900
+Cost of Revenue $281,700 $250,200 $236,700 $222,800
+Gross Profit $4,362,700 $4,354,800 $4,040,600 $3,691,100
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $3,443,600 $3,211,300 $2,857,900 $2,609,900
+Sales, General and Admin. $3,474,700 $3,443,600 $3,211,300 $2,857,900
 Non-Recurring Items $0 $0 $0 $0
-Other Operating Items $218,700 $199,700 $183,800 $172,600
-Operating Income $692,500 $629,600 $649,400 $648,800
-Add'l income/expense items $22,800 $2,200 -$6,600 -$4,500
-Earnings Before Interest and Tax $722,000 $640,500 $650,800 $654,100
-Interest Expense $159,700 $147,300 $154,400 $172,100
-Earnings Before Tax $562,300 $493,200 $496,400 $482,000
-Income Tax $115,900 $118,900 $145,800 $163,900
-Minority Interest $6,700 $8,700 $8,000 $9,800
-Equity Earnings/Loss Unconsolidated Subsidiary -$87,100 -$83,100 -$79,100 -$70,500
-Net Income-Cont. Operations $446,400 $374,300 $350,600 $318,100
-Net Income $358,700 $292,300 $271,100 $247,600
-Net Income Applicable to Common Shareholders $358,700 $292,300 $271,100 $247,600
+Other Operating Items $243,000 $218,700 $199,700 $183,800
+Operating Income $645,000 $692,500 $629,600 $649,400
+Add'l income/expense items $8,300 $22,800 $2,200 -$6,600
+Earnings Before Interest and Tax $656,800 $722,000 $640,500 $650,800
+Interest Expense $184,200 $159,700 $147,300 $154,400
+Earnings Before Tax $472,600 $562,300 $493,200 $496,400
+Income Tax $103,800 $115,900 $118,900 $145,800
+Minority Interest $3,500 $6,700 $8,700 $8,000
+Equity Earnings/Loss Unconsolidated Subsidiary -$84,600 -$87,100 -$83,100 -$79,100
+Net Income-Cont. Operations $368,800 $446,400 $374,300 $350,600
+Net Income $284,200 $358,700 $292,300 $271,100
+Net Income Applicable to Common Shareholders $284,200 $358,700 $292,300 $271,100

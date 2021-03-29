@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income -$62,762 -$192,152 -$175,211 -$184,102
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$56,326 -$62,762 -$192,152 -$175,211
 Cash Flows-Operating Activities
-Depreciation $28,064 $27,373 $32,472 $31,041
-Net Income Adjustments $20,071 $129,213 $70,200 $71,525
+Depreciation $23,247 $28,064 $27,373 $32,472
+Net Income Adjustments $14,150 $20,071 $129,213 $70,200
 Changes in Operating Activities
-Accounts Receivable $19,816 $107 -$6,340 $6,216
-Changes in Inventories $4,003 $100 $627 $7,786
-Other Operating Activities -$302 $343 $196 -$570
-Liabilities -$17,655 $5,384 -$3,092 -$2,530
-Net Cash Flow-Operating -$8,765 -$29,632 -$81,148 -$70,634
+Accounts Receivable -$17,986 $19,816 $107 -$6,340
+Changes in Inventories $4,863 $4,003 $100 $627
+Other Operating Activities -$18 -$302 $343 $196
+Liabilities $15,336 -$17,655 $5,384 -$3,092
+Net Cash Flow-Operating -$16,854 -$8,765 -$29,632 -$81,148
 Cash Flows-Investing Activities
-Capital Expenditures -$4,590 -$10,546 -$13,636 -$15,780
-Investments $0 $0 -$360 $1,244
-Other Investing Activities $300 $68 $1,721 -$74,229
-Net Cash Flows-Investing -$4,290 -$10,478 -$12,275 -$88,765
+Capital Expenditures -$5,672 -$4,590 -$10,546 -$13,636
+Investments $0 $0 $0 -$360
+Other Investing Activities $40,926 $300 $68 $1,721
+Net Cash Flows-Investing $35,254 -$4,290 -$10,478 -$12,275
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $0 $0 $0 $83,566
-Net Borrowings $238 -$93 $0 $79,390
-Other Financing Activities -$270 -$2,066 -$5,335 -$2,028
-Net Cash Flows-Financing -$32 -$2,159 -$5,335 $313,594
-Effect of Exchange Rate $25 -$300 $65 $169
-Net Cash Flow -$13,062 -$42,569 -$98,693 $154,364
+Sale and Purchase of Stock $171 $0 $0 $0
+Net Borrowings $13 $238 -$93 $0
+Other Financing Activities -$739 -$270 -$2,066 -$5,335
+Net Cash Flows-Financing -$555 -$32 -$2,159 -$5,335
+Effect of Exchange Rate -$62 $25 -$300 $65
+Net Cash Flow $17,783 -$13,062 -$42,569 -$98,693

@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $201,492 $203,567 $123,421 $215,636
-Cost of Revenue $123,725 $132,274 $104,821 $166,925
-Gross Profit $77,767 $71,293 $18,600 $48,711
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $141,837 $174,453 $179,161 $123,421
+Cost of Revenue $91,145 $109,523 $119,587 $104,821
+Gross Profit $50,692 $64,930 $59,574 $18,600
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $60,884 $59,693 $64,314 $49,308
+Sales, General and Admin. $47,576 $55,631 $54,580 $64,314
 Non-Recurring Items $0 $0 $0 $0
-Other Operating Items $64,012 $68,841 $60,307 $58,069
-Operating Income -$52,526 -$68,509 -$129,644 -$174,888
-Add'l income/expense items -$5,651 -$8,579 $4,275 -$121,631
-Earnings Before Interest and Tax -$52,780 -$65,820 -$101,746 -$180,297
-Interest Expense $30,056 $27,404 $16,044 $10,008
-Earnings Before Tax -$82,836 -$93,224 -$117,790 -$190,305
-Income Tax -$7,912 -$13,354 -$74,410 -$63,469
-Minority Interest -$14,304 -$3,552 $3,851 -$6,314
-Equity Earnings/Loss Unconsolidated Subsidiary $5,858 $4,444 $5,639 $1,103
-Net Income-Cont. Operations -$89,228 -$83,422 -$39,529 -$132,047
-Net Income -$92,837 -$77,608 -$32,901 -$132,047
-Net Income Applicable to Common Shareholders -$92,837 -$77,608 -$32,901 -$132,047
+Other Operating Items $57,167 $57,166 $61,419 $60,307
+Operating Income -$71,639 -$54,328 -$68,414 -$129,644
+Add'l income/expense items -$13,365 -$7,651 -$9,282 $4,275
+Earnings Before Interest and Tax -$67,416 -$55,518 -$65,707 -$101,746
+Interest Expense $30,691 $28,956 $26,726 $16,044
+Earnings Before Tax -$98,107 -$84,474 -$92,433 -$117,790
+Income Tax -$22,924 -$7,969 -$13,463 -$74,410
+Minority Interest -$8,163 -$14,459 -$4,009 $3,851
+Equity Earnings/Loss Unconsolidated Subsidiary $4,067 $5,858 $4,444 $5,639
+Net Income-Cont. Operations -$83,346 -$90,964 -$82,979 -$39,529
+Net Income -$78,915 -$92,837 -$77,608 -$32,901
+Net Income Applicable to Common Shareholders -$78,915 -$92,837 -$77,608 -$32,901

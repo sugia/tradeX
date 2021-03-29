@@ -1,23 +1,23 @@
-Period Ending:  7/31/2009 7/31/2008 10/31/2007  10/31/2006
-Net Income  -$4,719 -$1,213 $6,724  $26,042
+Period Ending: 7/31/2009 7/31/2008 10/31/2007 10/31/2006
+Net Income -$4,719 -$1,213 $6,724 $26,042
 Cash Flows-Operating Activities
-Depreciation  -$902 $0  $0  $0
-Net Income Adjustments  $24,540 $0  $0  $0
+Depreciation -$902 $0 $0 $0
+Net Income Adjustments $24,540 $0 $0 $0
 Changes in Operating Activities
-Accounts Receivable -$70  $0  $0  $0
-Changes in Inventories  $239  $0  $0  $0
-Other Operating Activities  $0  $0  $0  $0
-Liabilities -$52  $0  $0  $0
-Net Cash Flow-Operating $19,036 -$1,213 $2,137  $22,087
+Accounts Receivable -$70 $0 $0 $0
+Changes in Inventories $239 $0 $0 $0
+Other Operating Activities $0 $0 $0 $0
+Liabilities -$52 $0 $0 $0
+Net Cash Flow-Operating $19,036 -$1,213 $2,137 $22,087
 Cash Flows-Investing Activities
-Capital Expenditures  $0  $0  $0  $0
-Investments $0  $0  $0  $0
-Other Investing Activities  $0  $0  $0  $0
-Net Cash Flows-Investing  $0  $0  $0  $0
+Capital Expenditures $0 $0 $0 $0
+Investments $0 $0 $0 $0
+Other Investing Activities $0 $0 $0 $0
+Net Cash Flows-Investing $0 $0 $0 $0
 Cash Flows-Financing Activities
-Sale and Purchase of Stock  -$29,900  $686  $982  $711
-Net Borrowings  $25,334 $0  $0  $0
-Other Financing Activities  -$77  $0  $0  $0
-Net Cash Flows-Financing  -$18,969  -$13,055  -$12,770  -$12,987
-Effect of Exchange Rate $0  $0  $0  $0
-Net Cash Flow $67 -$14,268  -$10,633  $9,100
+Sale and Purchase of Stock -$29,900 $686 $982 $711
+Net Borrowings $25,334 $0 $0 $0
+Other Financing Activities -$77 $0 $0 $0
+Net Cash Flows-Financing -$18,969 -$13,055 -$12,770 -$12,987
+Effect of Exchange Rate $0 $0 $0 $0
+Net Cash Flow $67 -$14,268 -$10,633 $9,100

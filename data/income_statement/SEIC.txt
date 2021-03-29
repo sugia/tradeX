@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $1,649,885 $1,624,167 $1,526,552 $1,401,545
-Cost of Revenue $282,618 $285,652 $263,972 $231,699
-Gross Profit $1,367,267 $1,338,515 $1,262,580 $1,169,846
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $1,684,058 $1,649,885 $1,624,167 $1,526,552
+Cost of Revenue $324,244 $282,618 $285,652 $263,972
+Gross Profit $1,359,814 $1,367,267 $1,338,515 $1,262,580
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $795,995 $786,391 $743,258 $672,499
-Non-Recurring Items $29,993 $32,449 $46,792 $49,821
-Other Operating Items $80,855 $77,687 $75,586 $71,832
-Operating Income $460,424 $441,988 $396,944 $375,694
-Add'l income/expense items $19,756 $13,072 $8,326 $7,219
-Earnings Before Interest and Tax $632,071 $614,851 $557,820 $509,016
-Interest Expense $630 $645 $781 $531
-Earnings Before Tax $631,441 $614,206 $557,039 $508,485
-Income Tax $130,015 $108,338 $152,650 $174,668
-Minority Interest $151,891 $159,791 $152,550 $126,103
+Sales, General and Admin. $801,056 $795,995 $786,391 $743,258
+Non-Recurring Items $28,937 $29,993 $32,449 $46,792
+Other Operating Items $83,934 $80,855 $77,687 $75,586
+Operating Income $445,887 $460,424 $441,988 $396,944
+Add'l income/expense items $6,282 $19,756 $13,072 $8,326
+Earnings Before Interest and Tax $569,303 $632,071 $614,851 $557,820
+Interest Expense $609 $630 $645 $781
+Earnings Before Tax $568,694 $631,441 $614,206 $557,039
+Income Tax $121,408 $130,015 $108,338 $152,650
+Minority Interest $117,134 $151,891 $159,791 $152,550
 Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 $0
-Net Income-Cont. Operations $653,317 $665,659 $556,939 $459,920
-Net Income $501,426 $505,868 $404,389 $333,817
-Net Income Applicable to Common Shareholders $501,426 $505,868 $404,389 $333,817
+Net Income-Cont. Operations $564,420 $653,317 $665,659 $556,939
+Net Income $447,286 $501,426 $505,868 $404,389
+Net Income Applicable to Common Shareholders $447,286 $501,426 $505,868 $404,389

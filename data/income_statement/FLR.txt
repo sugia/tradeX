@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $14,348,018 $15,172,454 $14,806,511 $19,036,525
-Cost of Revenue $14,775,399 $14,803,234 $14,528,782 $18,246,209
-Gross Profit -$427,381 $369,220 $277,729 $790,316
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $15,668,477 $17,317,284 $18,851,008 $14,806,511
+Cost of Revenue $15,283,226 $17,533,864 $18,281,628 $14,528,782
+Gross Profit $385,251 -$216,580 $569,380 $277,729
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $159,089 $118,428 $183,697 $191,073
-Non-Recurring Items $532,600 $0 $0 $0
+Sales, General and Admin. $240,692 $165,921 $121,164 $183,697
+Non-Recurring Items $305,590 $532,600 $0 $0
 Other Operating Items $0 $0 $0 $0
-Operating Income -$1,119,070 $250,792 $94,032 $599,243
-Add'l income/expense items -$83,526 $14,352 $27,235 $17,046
-Earnings Before Interest and Tax -$1,202,596 $265,144 $121,267 $616,289
-Interest Expense $74,104 $77,144 $67,458 $69,689
-Earnings Before Tax -$1,276,700 $188,000 $53,809 $546,600
-Income Tax $440,982 $132,250 $16,356 $219,151
+Operating Income -$161,031 -$915,101 $448,216 $94,032
+Add'l income/expense items $26,099 -$82,290 $14,677 $27,235
+Earnings Before Interest and Tax -$134,932 -$997,391 $462,893 $121,267
+Interest Expense $72,120 $74,104 $77,144 $67,458
+Earnings Before Tax -$207,052 -$1,071,495 $385,749 $53,809
+Income Tax $18,592 $485,230 $173,331 $16,356
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary $30,960 -$59,385 -$73,093 -$46,048
-Net Income-Cont. Operations -$1,686,722 -$3,635 -$35,640 $281,401
-Net Income -$1,522,164 $173,468 $153,671 $281,401
-Net Income Applicable to Common Shareholders -$1,522,164 $173,468 $153,671 $281,401
+Equity Earnings/Loss Unconsolidated Subsidiary -$68,255 $30,958 -$59,385 -$73,093
+Net Income-Cont. Operations -$293,899 -$1,525,767 $153,033 -$35,640
+Net Income -$435,046 -$1,522,164 $173,468 $153,671
+Net Income Applicable to Common Shareholders -$435,046 -$1,522,164 $173,468 $153,671

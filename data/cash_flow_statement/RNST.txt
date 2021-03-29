@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $167,596 $146,920 $92,188 $90,930
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $83,651 $167,596 $146,920 $92,188
 Cash Flows-Operating Activities
-Depreciation $8,185 $3,496 $4,832 $3,091
-Net Income Adjustments -$60,477 -$75,100 $123,733 $73,443
+Depreciation $34,633 $8,185 $3,496 $4,832
+Net Income Adjustments -$3,895 -$60,477 -$75,100 $123,733
 Changes in Operating Activities
-Accounts Receivable -$12,249 -$41,954 -$12,572 -$16,694
+Accounts Receivable $27,077 -$12,249 -$41,954 -$12,572
 Changes in Inventories $0 $0 $0 $0
 Other Operating Activities $0 $0 $0 $0
-Liabilities $683 -$11,849 -$1,139 $13,027
-Net Cash Flow-Operating $163,623 $82,112 $207,042 $163,797
+Liabilities -$59,224 $683 -$11,849 -$1,139
+Net Cash Flow-Operating $82,242 $163,623 $82,112 $207,042
 Cash Flows-Investing Activities
-Capital Expenditures -$34,966 -$22,360 -$13,047 -$13,560
-Investments -$493,743 -$643,711 $24,791 -$378,248
-Other Investing Activities $22,799 $162,784 $57,917 $39,815
-Net Cash Flows-Investing -$505,910 -$503,287 $69,661 -$351,993
+Capital Expenditures -$28,270 -$34,966 -$22,360 -$13,047
+Investments -$1,247,162 -$493,743 -$643,711 $24,791
+Other Investing Activities $9,884 $22,799 $162,784 $57,917
+Net Cash Flows-Investing -$1,265,548 -$505,910 -$503,287 $69,661
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$62,944 -$6,861 $173 $84,520
-Net Borrowings $216,026 $262,904 -$190,102 -$263,797
-Other Financing Activities $85,925 $496,404 -$77,129 $491,860
-Net Cash Flows-Financing $188,106 $708,833 -$301,474 $282,849
+Sale and Purchase of Stock -$24,569 -$62,944 -$6,861 $173
+Net Borrowings -$369,777 $216,026 $262,904 -$190,102
+Other Financing Activities $1,846,059 $85,925 $496,404 -$77,129
+Net Cash Flows-Financing $1,401,579 $188,106 $708,833 -$301,474
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$154,181 $287,658 -$24,771 $94,653
+Net Cash Flow $218,273 -$154,181 $287,658 -$24,771

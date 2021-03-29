@@ -8,9 +8,9 @@ Sales, General and Admin. $64,816 $75,967 $66,164 $48,842
 Non-Recurring Items $600 $0 $0 $0
 Other Operating Items $0 $0 $0 $0
 Operating Income -$13,937 -$7,020 $8,420 $13,144
-Add'l income/expense items -$3,972 -$6,362 -$2,764 -$141
-Earnings Before Interest and Tax -$17,909 -$13,382 $5,656 $13,003
-Interest Expense $0 $0 $0 $91
+Add'l income/expense items $0 $0 $0 -$141
+Earnings Before Interest and Tax -$13,937 -$7,020 $8,420 $13,003
+Interest Expense $3,972 $6,362 $2,764 $91
 Earnings Before Tax -$17,909 -$13,382 $5,656 $12,912
 Income Tax $348 $1,256 $708 $3,652
 Minority Interest $0 $0 $0 $0

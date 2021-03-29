@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $3,106,000 $2,702,900 $2,700,600 $3,079,700
-Cost of Revenue $1,763,800 $1,582,200 $1,579,600 $1,790,200
-Gross Profit $1,342,200 $1,120,700 $1,121,000 $1,289,500
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $3,676,900 $3,106,000 $2,702,900 $2,700,600
+Cost of Revenue $2,038,500 $1,763,800 $1,582,200 $1,579,600
+Gross Profit $1,638,400 $1,342,200 $1,120,700 $1,121,000
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $1,011,400 $882,000 $861,900 $908,900
+Sales, General and Admin. $1,122,700 $1,011,400 $882,000 $861,900
 Non-Recurring Items $0 $0 $0 $0
 Other Operating Items $0 $0 $0 $0
-Operating Income $346,700 $256,300 $295,500 $413,400
-Add'l income/expense items $4,500 $1,000 $28,000 -$27,400
-Earnings Before Interest and Tax $351,200 $257,300 $302,700 $366,500
-Interest Expense $85,700 $92,300 $87,300 $82,900
-Earnings Before Tax $265,500 $165,000 $215,400 $283,600
-Income Tax $74,700 $49,600 $43,800 $86,300
-Minority Interest $15,900 $17,600 $15,600 $13,300
-Equity Earnings/Loss Unconsolidated Subsidiary $100 $2,900 $10,700 $5,600
-Net Income-Cont. Operations $190,800 $115,400 $171,600 $197,300
-Net Income $189,500 $100,500 $151,400 $190,600
-Net Income Applicable to Common Shareholders $189,500 $100,500 $151,400 $190,600
+Operating Income $532,100 $346,700 $256,300 $295,500
+Add'l income/expense items -$2,700 $4,500 $1,000 $28,000
+Earnings Before Interest and Tax $529,400 $351,200 $257,300 $302,700
+Interest Expense $77,000 $85,700 $92,300 $87,300
+Earnings Before Tax $452,400 $265,500 $165,000 $215,400
+Income Tax $102,600 $74,700 $49,600 $43,800
+Minority Interest $16,400 $15,900 $17,600 $15,600
+Equity Earnings/Loss Unconsolidated Subsidiary -$1,000 $100 $2,900 $10,700
+Net Income-Cont. Operations $349,800 $190,800 $115,400 $171,600
+Net Income $348,800 $189,500 $100,500 $151,400
+Net Income Applicable to Common Shareholders $348,800 $189,500 $100,500 $151,400

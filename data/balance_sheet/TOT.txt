@@ -1,0 +1,35 @@
+Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
+Current Assets
+Cash and Cash Equivalents $27,352,000 $27,907,000 $33,185,000 $24,597,000
+Short-Term Investments $0 $0 $0 $0
+Net Receivables $18,488,000 $17,270,000 $14,893,000 $12,213,000
+Inventory $17,132,000 $14,880,000 $16,520,000 $15,247,000
+Other Current Assets $22,293,000 $19,742,000 $20,350,000 $20,460,000
+Total Current Assets $85,265,000 $79,799,000 $84,948,000 $72,517,000
+Long-Term Assets
+Long-Term Investments $28,900,000 $24,865,000 $23,830,000 $21,709,000
+Fixed Assets $116,408,000 $113,324,000 $109,397,000 $111,971,000
+Goodwill $0 $0 $0 $0
+Intangible Assets $33,178,000 $28,922,000 $14,587,000 $15,362,000
+Other Assets $3,327,000 $3,189,000 $4,663,000 $5,051,000
+Deferred Asset Charges $6,216,000 $6,663,000 $5,206,000 $4,368,000
+Total Assets $273,294,000 $256,762,000 $242,631,000 $230,978,000
+Current Liabilities
+Accounts Payable $54,143,000 $48,380,000 $44,258,000 $39,947,000
+Short-Term Debt / Current Portion of Long-Term Debt $14,819,000 $13,306,000 $11,096,000 $13,920,000
+Other Current Liabilities $1,282,000 $548,000 $1,351,000 $818,000
+Total Current Liabilities $70,244,000 $62,234,000 $56,705,000 $54,685,000
+Long-Term Debt $47,773,000 $40,129,000 $41,340,000 $43,067,000
+Other Liabilities $24,114,000 $24,795,000 $19,721,000 $20,592,000
+Deferred Liability Charges $11,858,000 $11,490,000 $10,828,000 $11,060,000
+Misc. Stocks $2,527,000 $2,474,000 $2,481,000 $2,894,000
+Minority Interest $0 $0 $0 $0
+Total Liabilities $153,989,000 $138,648,000 $128,594,000 $129,404,000
+Stock Holders Equity
+Common Stocks $8,123,000 $8,227,000 $7,882,000 $7,604,000
+Capital Surplus $121,170,000 $120,569,000 $112,040,000 $105,547,000
+Retained Earnings -$1,012,000 -$1,843,000 -$458,000 -$600,000
+Treasury Stock $0 $0 $0 $0
+Other Equity -$11,503,000 -$11,313,000 -$7,908,000 -$13,871,000
+Total Equity $116,778,000 $115,640,000 $111,556,000 $98,680,000
+Total Liabilities & Equity $273,294,000 $256,762,000 $242,631,000 $230,978,000

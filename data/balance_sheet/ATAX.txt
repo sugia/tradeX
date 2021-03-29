@@ -1,35 +1,35 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
 Current Assets
-Cash and Cash Equivalents $43,186 $33,269 $71,583 $27,506
+Cash and Cash Equivalents $122,991 $43,186 $33,269 $71,583
 Short-Term Investments $0 $0 $0 $0
-Net Receivables $7,432 $7,012 $6,541 $6,983
+Net Receivables $73,076 $7,432 $7,012 $6,541
 Inventory $0 $0 $0 $0
 Other Current Assets $0 $0 $0 $0
 Total Current Assets $0 $0 $0 $0
 Long-Term Assets
-Long-Term Investments $94,981 $92,495 $69,123 $49,233
-Fixed Assets $61,560 $64,596 $76,692 $114,227
+Long-Term Investments $119,799 $94,981 $92,495 $69,123
+Fixed Assets $59,041 $61,560 $64,596 $76,692
 Goodwill $0 $0 $0 $0
 Intangible Assets $0 $0 $0 $0
-Other Assets $822,009 $785,341 $845,829 $746,164
+Other Assets $800,341 $822,009 $785,341 $845,829
 Deferred Asset Charges $0 $0 $0 $0
-Total Assets $1,029,169 $982,713 $1,069,768 $944,114
+Total Assets $1,175,248 $1,029,169 $982,713 $1,069,768
 Current Liabilities
-Accounts Payable $16,644 $15,120 $16,918 $15,273
-Short-Term Debt / Current Portion of Long-Term Debt $0 $0 $0 $19,817
+Accounts Payable $13,636 $16,644 $15,120 $16,918
+Short-Term Debt / Current Portion of Long-Term Debt $0 $0 $0 $0
 Other Current Liabilities $0 $0 $0 $0
 Total Current Liabilities $0 $0 $0 $0
-Long-Term Debt $576,200 $568,777 $644,695 $588,102
+Long-Term Debt $707,418 $576,200 $568,777 $644,695
 Other Liabilities $0 $0 $0 $0
 Deferred Liability Charges $0 $0 $0 $0
-Misc. Stocks $0 $0 $0 $5
+Misc. Stocks $0 $0 $0 $0
 Minority Interest $0 $0 $0 $0
-Total Liabilities $592,844 $583,897 $661,613 $623,196
+Total Liabilities $721,053 $592,844 $583,897 $661,613
 Stock Holders Equity
 Common Stocks $0 $0 $0 $0
 Capital Surplus $0 $0 $0 $0
 Retained Earnings $0 $0 $0 $0
 Treasury Stock $0 $0 $0 $0
-Other Equity $341,938 $304,466 $313,840 $280,129
+Other Equity $359,772 $341,938 $304,466 $313,840
 Total Equity $0 $0 $0 $0
-Total Liabilities & Equity $1,029,169 $982,713 $1,069,768 $944,114
+Total Liabilities & Equity $1,175,248 $1,029,169 $982,713 $1,069,768

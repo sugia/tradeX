@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $11,600 $3,300 -$26,800 -$28,879
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $6,800 $11,600 $3,300 -$26,800
 Cash Flows-Operating Activities
-Depreciation $27,900 $15,600 $13,900 $13,833
-Net Income Adjustments $78,600 $69,800 $52,500 $44,540
+Depreciation $55,400 $27,900 $15,600 $13,900
+Net Income Adjustments $85,200 $78,600 $69,800 $52,500
 Changes in Operating Activities
-Accounts Receivable $43,300 $20,500 $29,600 $590
-Changes in Inventories -$10,900 -$22,900 -$26,300 $12,551
-Other Operating Activities -$30,200 -$38,800 $1,700 -$24,103
-Liabilities -$21,900 -$11,600 -$3,300 -$2,621
-Net Cash Flow-Operating $98,400 $35,900 $41,300 $15,911
+Accounts Receivable $34,900 $43,300 $20,500 $29,600
+Changes in Inventories -$15,600 -$10,800 -$14,600 -$26,300
+Other Operating Activities -$50,500 -$30,200 -$38,800 $1,700
+Liabilities -$32,200 -$22,000 -$19,900 -$3,300
+Net Cash Flow-Operating $84,000 $98,400 $35,900 $41,300
 Cash Flows-Investing Activities
-Capital Expenditures -$163,700 -$157,400 -$73,800 -$22,115
-Investments $97,300 -$22,100 -$133,600 -$161,609
-Other Investing Activities -$7,200 -$5,000 -$3,400 $5,714
-Net Cash Flows-Investing -$73,600 -$184,500 -$210,800 -$178,010
+Capital Expenditures -$129,000 -$163,700 -$157,400 -$73,800
+Investments $180,500 $97,300 -$22,100 -$133,600
+Other Investing Activities -$37,500 -$7,200 -$5,000 -$3,400
+Net Cash Flows-Investing $14,000 -$73,600 -$184,500 -$210,800
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $50,900 $15,800 $15,800 $4,854
-Net Borrowings $116,600 -$6,700 $292,800 $174,579
-Other Financing Activities -$8,600 -$17,800 -$4,100 -$2,866
-Net Cash Flows-Financing $73,500 -$8,700 $304,500 $176,567
-Effect of Exchange Rate $1,500 -$1,400 $400 $34
-Net Cash Flow $99,800 -$158,700 $135,400 $14,502
+Sale and Purchase of Stock $509,200 $50,900 $15,800 $15,800
+Net Borrowings $68,300 $116,600 -$6,700 $292,800
+Other Financing Activities $28,000 -$8,600 -$17,800 -$4,100
+Net Cash Flows-Financing $605,500 $73,500 -$8,700 $304,500
+Effect of Exchange Rate $4,800 $1,500 -$1,400 $400
+Net Cash Flow $708,300 $99,800 -$158,700 $135,400

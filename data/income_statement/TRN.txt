@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $3,005,100 $2,509,100 $2,397,400 $3,089,800
-Cost of Revenue $2,365,700 $1,938,800 $1,775,200 $2,312,000
-Gross Profit $639,400 $570,300 $622,200 $777,800
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $1,999,400 $3,005,100 $2,509,100 $2,397,400
+Cost of Revenue $1,508,400 $2,365,700 $1,938,800 $1,775,200
+Gross Profit $491,000 $639,400 $570,300 $622,200
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $262,800 $296,600 $339,300 $313,900
-Non-Recurring Items $14,700 $0 $0 $0
+Sales, General and Admin. $228,400 $262,800 $296,600 $339,300
+Non-Recurring Items $407,400 $14,700 $0 $0
 Other Operating Items $0 $0 $0 $0
-Operating Income $416,300 $315,100 $368,300 $478,900
-Add'l income/expense items $60,600 $57,200 $96,500 $28,000
-Earnings Before Interest and Tax $422,500 $330,900 $379,400 $491,900
-Interest Expense $221,800 $179,300 $184,000 $181,900
-Earnings Before Tax $200,700 $151,600 $195,400 $310,000
-Income Tax $61,500 $42,600 -$414,800 $106,800
+Operating Income -$124,500 $416,300 $315,100 $368,300
+Add'l income/expense items -$130,500 $60,600 $57,200 $96,500
+Earnings Before Interest and Tax -$275,300 $422,500 $330,900 $379,400
+Interest Expense $219,200 $221,800 $179,300 $184,000
+Earnings Before Tax -$494,500 $200,700 $151,600 $195,400
+Income Tax -$268,400 $61,500 $42,600 -$414,800
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary $1,500 -$3,800 -$11,100 -$21,100
-Net Income-Cont. Operations $139,200 $109,000 $610,200 $203,200
-Net Income $137,600 $159,300 $702,500 $343,600
-Net Income Applicable to Common Shareholders $137,600 $159,300 $702,500 $343,600
+Equity Earnings/Loss Unconsolidated Subsidiary $78,900 $1,500 -$3,800 -$11,100
+Net Income-Cont. Operations -$226,100 $139,200 $109,000 $610,200
+Net Income -$147,300 $137,600 $159,300 $702,500
+Net Income Applicable to Common Shareholders -$147,300 $137,600 $159,300 $702,500

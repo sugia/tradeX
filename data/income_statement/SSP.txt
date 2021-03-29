@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $1,423,836 $1,208,425 $876,972 $874,451
-Cost of Revenue $451,249 $350,753 $228,605 $172,617
-Gross Profit $972,587 $857,672 $648,367 $701,834
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $1,857,478 $1,351,399 $1,157,362 $876,972
+Cost of Revenue $530,785 $398,314 $314,586 $228,605
+Gross Profit $1,326,693 $953,085 $842,776 $648,367
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $792,082 $640,516 $553,604 $517,367
-Non-Recurring Items $29,674 $21,955 $40,154 $578
-Other Operating Items $86,986 $63,987 $56,343 $55,204
-Operating Income $65,537 $129,959 -$1,903 $128,205
-Add'l income/expense items -$4,124 -$20,855 -$3,645 -$17,458
-Earnings Before Interest and Tax $59,721 $110,359 -$5,379 $111,227
-Interest Expense $80,596 $36,184 $26,697 $18,039
-Earnings Before Tax -$20,875 $74,175 -$32,076 $93,188
-Income Tax -$2,497 $18,098 -$20,054 $33,266
+Sales, General and Admin. $896,711 $753,400 $610,372 $553,604
+Non-Recurring Items $18,678 $29,674 $21,955 $40,154
+Other Operating Items $107,155 $84,344 $60,711 $56,343
+Operating Income $303,488 $87,359 $148,483 -$1,903
+Add'l income/expense items -$2,135 -$4,067 -$20,884 -$3,645
+Earnings Before Interest and Tax $302,014 $81,600 $128,854 -$5,379
+Interest Expense $92,994 $80,596 $36,184 $26,697
+Earnings Before Tax $209,020 $1,004 $92,670 -$32,076
+Income Tax $55,456 $2,917 $22,781 -$20,054
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary $0 $632 $1,511 $0
-Net Income-Cont. Operations -$18,378 $56,077 -$12,022 $59,922
-Net Income -$18,378 $20,381 -$13,106 $67,235
-Net Income Applicable to Common Shareholders -$18,378 $20,381 -$13,106 $67,235
+Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $632 $1,511
+Net Income-Cont. Operations $153,564 -$1,913 $69,889 -$12,022
+Net Income $269,333 -$18,378 $20,381 -$13,106
+Net Income Applicable to Common Shareholders $269,333 -$18,378 $20,381 -$13,106

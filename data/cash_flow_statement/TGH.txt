@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $56,724 $50,378 $19,365 -$52,483
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $72,822 $56,724 $50,378 $19,365
 Cash Flows-Operating Activities
-Depreciation $270,418 $262,752 $260,199 $250,901
-Net Income Adjustments $5,791 -$15,941 -$19,922 $109,391
+Depreciation $281,099 $270,418 $262,752 $260,199
+Net Income Adjustments -$18,391 $5,791 -$15,941 -$19,922
 Changes in Operating Activities
-Accounts Receivable $3,088 $1,673 -$4,691 $10,922
-Changes in Inventories $23,205 -$34,671 -$11,125 -$32,361
+Accounts Receivable -$3,516 $3,088 $1,673 -$4,691
+Changes in Inventories $10,977 $23,205 -$34,671 -$11,125
 Other Operating Activities $0 $0 $0 $0
-Liabilities $69,487 $48,056 $72,618 -$3,083
-Net Cash Flow-Operating $428,545 $316,119 $317,821 $277,894
+Liabilities $52,413 $69,487 $48,056 $72,618
+Net Cash Flow-Operating $396,255 $428,545 $316,119 $317,821
 Cash Flows-Investing Activities
-Capital Expenditures -$466,993 -$854,383 -$300,125 -$505,528
-Investments -$273,700 -$29,658 $0 $0
-Other Investing Activities -$21,099 $147,254 $147,915 $225,098
-Net Cash Flows-Investing -$761,792 -$736,787 -$152,210 -$280,430
+Capital Expenditures -$746,145 -$466,993 -$854,383 -$300,125
+Investments -$94,778 -$273,700 -$29,658 $0
+Other Investing Activities $151,021 -$21,099 $147,254 $147,915
+Net Cash Flows-Investing -$689,902 -$761,792 -$736,787 -$152,210
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$8,471 $130 $961 $0
-Net Borrowings $389,366 $420,272 -$41,135 $30,914
-Other Financing Activities $17,448 $0 $0 $0
-Net Cash Flows-Financing $386,182 $408,154 -$70,372 -$4,619
-Effect of Exchange Rate $42 -$127 $207 -$233
-Net Cash Flow $52,977 -$12,641 $95,446 -$7,388
+Sale and Purchase of Stock -$67,198 -$8,471 $130 $961
+Net Borrowings $314,390 $389,366 $420,272 -$41,135
+Other Financing Activities -$12,825 $17,448 $0 $0
+Net Cash Flows-Financing $220,730 $386,182 $408,154 -$70,372
+Effect of Exchange Rate $177 $42 -$127 $207
+Net Cash Flow -$72,740 $52,977 -$12,641 $95,446

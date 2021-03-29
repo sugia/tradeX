@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $4,675,815 $4,390,116 $2,672,064 $1,610,596
-Cost of Revenue $3,645,905 $3,434,310 $1,232,023 $626,633
-Gross Profit $1,029,910 $955,806 $1,440,041 $983,963
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $4,415,777 $4,675,815 $4,390,116 $2,672,064
+Cost of Revenue $3,398,142 $3,645,905 $3,434,310 $1,232,023
+Gross Profit $1,017,635 $1,029,910 $955,806 $1,440,041
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $507,556 $471,146 $1,225,656 $755,788
-Non-Recurring Items $42,135 $50,793 $63,315 $13,612
-Other Operating Items $242,465 $273,685 $179,936 $59,204
-Operating Income $237,754 $160,182 -$28,866 $155,359
-Add'l income/expense items -$6,225 $27,777 -$19,286 -$9,225
-Earnings Before Interest and Tax $231,529 $187,959 -$48,152 $146,134
-Interest Expense $129,820 $130,701 $63,725 $12,016
-Earnings Before Tax $101,709 $57,258 -$111,877 $134,118
-Income Tax -$29,549 $32,974 $26,592 $21,488
+Sales, General and Admin. $472,726 $507,556 $471,146 $1,225,656
+Non-Recurring Items $29,414 $42,135 $50,793 $63,315
+Other Operating Items $222,352 $242,465 $273,685 $179,936
+Operating Income $293,143 $237,754 $160,182 -$28,866
+Add'l income/expense items $1,660 -$6,225 $27,777 -$19,286
+Earnings Before Interest and Tax $294,803 $231,529 $187,959 -$48,152
+Interest Expense $91,145 $129,820 $130,701 $63,725
+Earnings Before Tax $203,658 $101,709 $57,258 -$111,877
+Income Tax $10,871 -$29,549 $32,974 $26,592
 Minority Interest $0 $0 $0 $0
 Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 $0
-Net Income-Cont. Operations $131,258 $24,284 -$138,469 $112,630
-Net Income $131,258 $24,284 -$138,469 $112,630
-Net Income Applicable to Common Shareholders $131,258 $24,284 -$138,469 $112,630
+Net Income-Cont. Operations $192,787 $131,258 $24,284 -$138,469
+Net Income $192,787 $131,258 $24,284 -$138,469
+Net Income Applicable to Common Shareholders $192,787 $131,258 $24,284 -$138,469

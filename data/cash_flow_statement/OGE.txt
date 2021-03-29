@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $433,600 $425,500 $619,000 $338,200
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$173,700 $433,600 $425,500 $619,000
 Cash Flows-Operating Activities
-Depreciation $355,000 $321,600 $283,500 $322,600
-Net Income Adjustments -$28,700 $36,400 -$146,800 $108,100
+Depreciation $391,300 $355,000 $321,600 $283,500
+Net Income Adjustments $418,700 -$28,700 $36,400 -$146,800
 Changes in Operating Activities
-Accounts Receivable -$73,500 $98,800 -$26,000 -$10,900
-Changes in Inventories $18,800 $19,800 -$21,800 -$6,900
-Other Operating Activities $4,200 $27,300 -$3,600 $32,400
-Liabilities -$27,900 $21,700 $80,200 -$138,800
-Net Cash Flow-Operating $681,500 $951,100 $784,500 $644,700
+Accounts Receivable $35,800 -$73,500 $98,800 -$26,000
+Changes in Inventories $3,100 $18,800 $19,800 -$21,800
+Other Operating Activities -$8,900 $4,200 $27,300 -$3,600
+Liabilities $46,500 -$27,900 $21,700 $80,200
+Net Cash Flow-Operating $712,800 $681,500 $951,100 $784,500
 Cash Flows-Investing Activities
-Capital Expenditures -$635,500 -$573,600 -$824,100 -$660,100
-Investments $10,800 -$2,500 $1,500 $38,800
-Other Investing Activities $0 $100 $700 $900
-Net Cash Flows-Investing -$624,700 -$576,000 -$821,900 -$620,400
+Capital Expenditures -$650,500 -$635,500 -$573,600 -$824,100
+Investments -$4,400 $10,800 -$2,500 $1,500
+Other Investing Activities $0 $0 $100 $700
+Net Cash Flows-Investing -$654,900 -$624,700 -$576,000 -$821,900
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$10,300 -$500 -$100 $0
-Net Borrowings $158,400 -$22,500 $299,200 $126,000
-Other Financing Activities $0 $0 $0 -$100
-Net Cash Flows-Financing -$151,100 -$295,200 $51,500 -$99,200
+Sale and Purchase of Stock -$21,800 -$10,300 -$500 -$100
+Net Borrowings $280,000 $158,400 -$22,500 $299,200
+Other Financing Activities -$100 $0 $0 $0
+Net Cash Flows-Financing -$56,800 -$151,100 -$295,200 $51,500
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$94,300 $79,900 $14,100 -$74,900
+Net Cash Flow $1,100 -$94,300 $79,900 $14,100

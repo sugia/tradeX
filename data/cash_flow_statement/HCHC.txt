@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income -$31,500 $162,000 -$46,900 -$94,500
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$92,000 -$31,500 $162,000 -$46,900
 Cash Flows-Operating Activities
-Depreciation $63,500 $52,300 $50,700 $43,600
-Net Income Adjustments $42,300 -$220,800 -$16,800 $60,900
+Depreciation $29,200 $28,800 $52,300 $50,700
+Net Income Adjustments $39,500 $42,400 -$220,800 -$16,800
 Changes in Operating Activities
-Accounts Receivable -$21,200 $147,500 $87,800 $84,000
-Changes in Inventories $56,800 $208,600 -$49,200 -$57,900
+Accounts Receivable $29,400 $7,600 $147,500 $87,800
+Changes in Inventories $39,000 -$6,600 $208,600 -$49,200
 Other Operating Activities $0 $0 $0 $0
-Liabilities $5,200 -$26,100 -$15,400 $45,900
-Net Cash Flow-Operating $110,500 $341,400 $6,600 $79,100
+Liabilities $17,400 $17,100 -$26,100 -$15,400
+Net Cash Flow-Operating $41,700 $110,700 $341,400 $6,600
 Cash Flows-Investing Activities
-Capital Expenditures -$41,400 -$39,700 -$31,900 -$29,000
-Investments -$187,900 -$853,500 -$52,000 -$53,100
-Other Investing Activities -$34,400 $668,600 -$55,400 -$58,100
-Net Cash Flows-Investing -$263,700 -$224,600 -$139,300 -$140,200
+Capital Expenditures -$17,800 -$24,700 -$39,700 -$31,900
+Investments $8,600 -$187,900 -$853,500 -$52,000
+Other Investing Activities $171,500 -$51,000 $668,600 -$55,400
+Net Cash Flows-Investing $162,300 -$263,600 -$224,600 -$139,300
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $3,000 -$18,100 $700 $6,200
-Net Borrowings $79,400 $153,600 $135,300 $33,800
-Other Financing Activities -$20,000 -$20,300 -$17,000 -$17,000
-Net Cash Flows-Financing $62,400 $115,200 $115,400 $18,800
-Effect of Exchange Rate $1,000 -$500 $300 -$1,000
-Net Cash Flow -$89,800 $231,500 -$17,000 -$43,300
+Sale and Purchase of Stock $8,500 -$5,100 -$18,100 $700
+Net Borrowings -$185,900 $59,400 $153,600 $135,300
+Other Financing Activities -$27,200 $8,100 -$20,300 -$17,000
+Net Cash Flows-Financing -$204,600 $62,400 $115,200 $115,400
+Effect of Exchange Rate $700 $700 -$500 $300
+Net Cash Flow $38,700 -$110,700 $231,500 -$17,000

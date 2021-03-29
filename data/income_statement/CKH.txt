@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $799,966 $835,750 $650,847 $524,163
-Cost of Revenue $583,633 $591,848 $433,837 $358,953
-Gross Profit $216,333 $243,902 $217,010 $165,210
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $753,826 $799,966 $835,750 $650,847
+Cost of Revenue $548,040 $583,332 $591,848 $433,837
+Gross Profit $205,786 $216,634 $243,902 $217,010
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $105,517 $102,907 $103,106 $86,362
+Sales, General and Admin. $113,313 $105,818 $102,907 $103,106
 Non-Recurring Items $0 $0 $0 $0
-Other Operating Items $68,571 $74,579 $75,058 $62,565
-Operating Income $45,155 $85,999 $50,483 -$9,700
-Add'l income/expense items $26,085 $56,956 $37,889 -$68,715
-Earnings Before Interest and Tax $68,330 $123,372 $76,735 -$52,432
-Interest Expense $19,233 $31,683 $41,530 $39,804
-Earnings Before Tax $49,097 $91,689 $35,205 -$92,236
-Income Tax $9,829 $8,415 -$67,189 -$36,725
-Minority Interest -$5,250 -$72 $2,952 -$21,040
-Equity Earnings/Loss Unconsolidated Subsidiary -$7,244 -$25,054 -$20,066 -$20,125
-Net Income-Cont. Operations $34,018 $83,202 $105,346 -$76,551
-Net Income $26,774 $58,148 $61,643 -$215,897
-Net Income Applicable to Common Shareholders $26,774 $58,148 $61,643 -$215,897
+Other Operating Items $70,553 $68,571 $74,579 $75,058
+Operating Income $32,655 $45,155 $85,999 $50,483
+Add'l income/expense items $20,421 $26,085 $56,956 $37,889
+Earnings Before Interest and Tax $42,341 $68,330 $123,372 $76,735
+Interest Expense $15,949 $19,233 $31,683 $41,530
+Earnings Before Tax $26,392 $49,097 $91,689 $35,205
+Income Tax -$7,122 $9,829 $8,415 -$67,189
+Minority Interest -$10,183 -$5,250 -$72 $2,952
+Equity Earnings/Loss Unconsolidated Subsidiary -$20 -$7,244 -$25,054 -$20,066
+Net Income-Cont. Operations $24,659 $24,530 $46,522 $105,346
+Net Income $23,311 $26,774 $58,148 $61,643
+Net Income Applicable to Common Shareholders $23,311 $26,774 $58,148 $61,643

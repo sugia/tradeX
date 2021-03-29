@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $16,596,000 $16,994,000 $11,723,000 $9,986,000
-Cost of Revenue $15,380,000 $15,872,000 $10,615,000 $8,830,000
-Gross Profit $1,216,000 $1,122,000 $1,108,000 $1,156,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $10,710,000 $16,596,000 $16,994,000 $11,723,000
+Cost of Revenue $9,654,000 $15,380,000 $15,872,000 $10,615,000
+Gross Profit $1,056,000 $1,216,000 $1,122,000 $1,108,000
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $501,000 $576,000 $596,000 $610,000
+Sales, General and Admin. $448,000 $501,000 $576,000 $596,000
 Non-Recurring Items $0 $0 $0 $0
-Other Operating Items $183,000 $182,000 $169,000 $176,000
-Operating Income $464,000 $345,000 $229,000 $145,000
-Add'l income/expense items -$65,000 -$128,000 -$114,000 -$225,000
-Earnings Before Interest and Tax $469,000 $236,000 $229,000 $145,000
-Interest Expense $173,000 $144,000 $209,000 $161,000
-Earnings Before Tax $296,000 $92,000 $20,000 -$16,000
-Income Tax -$17,000 $34,000 -$306,000 -$72,000
-Minority Interest $2,000 $0 $0 $0
+Other Operating Items $189,000 $183,000 $182,000 $169,000
+Operating Income $417,000 $464,000 $345,000 $229,000
+Add'l income/expense items -$13,000 -$65,000 -$128,000 -$114,000
+Earnings Before Interest and Tax $411,000 $469,000 $236,000 $229,000
+Interest Expense $175,000 $173,000 $144,000 $209,000
+Earnings Before Tax $236,000 $296,000 $92,000 $20,000
+Income Tax $24,000 -$17,000 $34,000 -$306,000
+Minority Interest $5,000 $2,000 $0 $0
 Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 $0
-Net Income-Cont. Operations $313,000 $58,000 $326,000 $56,000
-Net Income $313,000 -$207,000 $149,000 -$406,000
-Net Income Applicable to Common Shareholders $313,000 -$207,000 $149,000 -$406,000
+Net Income-Cont. Operations $212,000 $313,000 $58,000 $326,000
+Net Income $212,000 $313,000 -$207,000 $149,000
+Net Income Applicable to Common Shareholders $212,000 $313,000 -$207,000 $149,000

@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $1,727,000 $1,761,000 $1,669,000 $1,502,032
-Cost of Revenue $818,000 $891,000 $768,000 $643,863
-Gross Profit $909,000 $870,000 $901,000 $858,169
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $847,000 $1,212,000 $1,251,000 $1,669,000
+Cost of Revenue $351,000 $614,000 $690,000 $768,000
+Gross Profit $496,000 $598,000 $561,000 $901,000
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $366,000 $372,000 $377,000 $346,114
-Non-Recurring Items $0 $3,000 $0 $0
-Other Operating Items $254,000 $261,000 $242,000 $236,515
-Operating Income $289,000 $234,000 $282,000 $275,540
-Add'l income/expense items $5,000 -$6,000 $9,000 $17,851
-Earnings Before Interest and Tax $294,000 $228,000 $291,000 $293,391
-Interest Expense $154,000 $113,000 $87,000 $95,613
-Earnings Before Tax $140,000 $115,000 $204,000 $197,778
-Income Tax $39,000 $50,000 -$230,000 $69,313
+Sales, General and Admin. $371,000 $333,000 $340,000 $377,000
+Non-Recurring Items $0 $0 $3,000 $0
+Other Operating Items $116,000 $122,000 $129,000 $242,000
+Operating Income $9,000 $143,000 $89,000 $282,000
+Add'l income/expense items -$1,000 $3,000 -$6,000 $9,000
+Earnings Before Interest and Tax $8,000 $146,000 $83,000 $291,000
+Interest Expense $87,000 $106,000 $67,000 $87,000
+Earnings Before Tax -$79,000 $40,000 $16,000 $204,000
+Income Tax $127,000 $15,000 $15,000 -$230,000
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary $3,000 $42,000 -$5,000 $1,512
-Net Income-Cont. Operations $101,000 $65,000 $434,000 $128,465
-Net Income $156,000 $137,000 $451,000 $156,381
-Net Income Applicable to Common Shareholders $156,000 $137,000 $451,000 $156,381
+Equity Earnings/Loss Unconsolidated Subsidiary $0 $3,000 $42,000 -$5,000
+Net Income-Cont. Operations -$206,000 $25,000 $1,000 $434,000
+Net Income -$928,000 $156,000 $137,000 $451,000
+Net Income Applicable to Common Shareholders -$928,000 $156,000 $137,000 $451,000

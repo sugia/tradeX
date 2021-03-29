@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $115,442 $13,393 $99,888 $73,704
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$391,729 $115,442 $13,393 $99,888
 Cash Flows-Operating Activities
-Depreciation $252,229 $126,731 $104,330 $103,952
-Net Income Adjustments $14,180 $17,354 -$385 $51,693
+Depreciation $241,760 $252,229 $126,731 $104,330
+Net Income Adjustments -$13,521 $14,180 $17,354 -$385
 Changes in Operating Activities
-Accounts Receivable $3,359 -$30,488 -$7,137 $6,816
-Changes in Inventories $8,648 $3,684 -$1,270 $1,263
+Accounts Receivable -$79,289 $3,359 -$30,488 -$7,137
+Changes in Inventories $38,509 $8,648 $3,684 -$1,270
 Other Operating Activities $0 $0 $0 $0
-Liabilities $1,061 $5,031 -$2,161 $2,286
-Net Cash Flow-Operating $395,202 $135,697 $193,639 $239,972
+Liabilities $3,358 $1,061 $5,031 -$2,161
+Net Cash Flow-Operating -$201,776 $395,202 $135,697 $193,639
 Cash Flows-Investing Activities
-Capital Expenditures -$170,384 -$89,769 -$80,865 -$121,973
-Investments $0 -$349,522 $0 $52,530
-Other Investing Activities $470,352 -$1,338,871 $213,153 $367,390
-Net Cash Flows-Investing $299,968 -$1,778,162 $132,288 $297,947
+Capital Expenditures -$125,014 -$170,384 -$89,769 -$80,865
+Investments $0 $0 -$349,522 $0
+Other Investing Activities $375,131 $470,352 -$1,338,871 $213,153
+Net Cash Flows-Investing $250,117 $299,968 -$1,778,162 $132,288
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$4,409 -$2,977 -$95,938 -$106,735
-Net Borrowings -$523,207 $1,872,634 -$109,317 -$298,583
-Other Financing Activities -$637 -$725 -$134 $935
-Net Cash Flows-Financing -$746,106 $1,717,743 -$334,223 -$532,888
+Sale and Purchase of Stock -$1,374 -$4,409 -$2,977 -$95,938
+Net Borrowings $136,700 -$523,207 $1,872,634 -$109,317
+Other Financing Activities -$1,354 -$637 -$725 -$134
+Net Cash Flows-Financing $31,084 -$746,106 $1,717,743 -$334,223
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$50,936 $75,278 -$8,296 $5,031
+Net Cash Flow $79,425 -$50,936 $75,278 -$8,296

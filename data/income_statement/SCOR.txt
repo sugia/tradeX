@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $388,645 $419,482 $403,549 $399,460
-Cost of Revenue $199,622 $200,220 $193,605 $173,080
-Gross Profit $189,023 $219,262 $209,944 $226,380
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $356,036 $388,645 $419,482 $403,549
+Cost of Revenue $180,712 $199,622 $200,220 $193,605
+Gross Profit $175,324 $189,023 $219,262 $209,944
 Operating Expenses
-Research and Development $61,802 $76,979 $89,023 $86,975
-Sales, General and Admin. $159,869 $231,268 $288,558 $270,445
-Non-Recurring Items $247,743 $17,087 $93,043 $2,363
-Other Operating Items $30,076 $32,864 $34,823 $31,896
-Operating Income -$310,467 -$138,936 -$295,503 -$131,842
-Add'l income/expense items $1,990 -$161 $12,054 $44,597
-Earnings Before Interest and Tax -$308,477 -$139,097 -$283,449 -$120,702
-Interest Expense $31,526 $16,465 $661 $478
-Earnings Before Tax -$340,003 -$155,562 -$284,110 -$121,180
-Income Tax -$1,007 $3,706 -$2,717 -$4,007
+Research and Development $38,706 $61,802 $76,979 $89,023
+Sales, General and Admin. $126,003 $159,869 $231,268 $288,558
+Non-Recurring Items $4,671 $247,743 $17,087 $93,043
+Other Operating Items $27,219 $30,076 $32,864 $34,823
+Operating Income -$21,275 -$310,467 -$138,936 -$295,503
+Add'l income/expense items $10,064 $1,990 -$161 $12,054
+Earnings Before Interest and Tax -$11,211 -$308,477 -$139,097 -$283,449
+Interest Expense $35,805 $31,526 $16,465 $661
+Earnings Before Tax -$47,016 -$340,003 -$155,562 -$284,110
+Income Tax $902 -$1,007 $3,706 -$2,717
 Minority Interest $0 $0 $0 $0
 Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 $0
-Net Income-Cont. Operations -$338,996 -$159,268 -$281,393 -$117,173
-Net Income -$338,996 -$159,268 -$281,393 -$117,173
-Net Income Applicable to Common Shareholders -$338,996 -$159,268 -$281,393 -$117,173
+Net Income-Cont. Operations -$47,918 -$338,996 -$159,268 -$281,393
+Net Income -$47,918 -$338,996 -$159,268 -$281,393
+Net Income Applicable to Common Shareholders -$47,918 -$338,996 -$159,268 -$281,393

@@ -1,35 +1,35 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
 Current Assets
-Cash and Cash Equivalents $146,116 $106,355 $203,607 $308,748
-Short-Term Investments $0 $2,939,311 $2,071,707 $1,505,026
-Net Receivables $202,949 $890,296 $646,092 $560,467
+Cash and Cash Equivalents $150,462 $146,116 $106,355 $203,607
+Short-Term Investments $0 $0 $2,939,311 $2,071,707
+Net Receivables $112,464 $202,949 $890,296 $646,092
 Inventory $0 $0 $0 $0
 Other Current Assets $0 $0 $0 $0
 Total Current Assets $0 $0 $0 $0
 Long-Term Assets
-Long-Term Investments $3,951,005 $20,001 $28,165 $35,595
+Long-Term Investments $3,124,764 $3,951,005 $20,001 $28,165
 Fixed Assets $0 $0 $0 $0
 Goodwill $0 $0 $0 $0
 Intangible Assets $0 $0 $0 $0
-Other Assets $38,147 $15,536 $43,770 $3,359
+Other Assets $26,173 $38,147 $15,536 $43,770
 Deferred Asset Charges $0 $0 $0 $0
-Total Assets $4,338,217 $3,971,499 $2,993,341 $2,413,195
+Total Assets $3,413,863 $4,338,217 $3,971,499 $2,993,341
 Current Liabilities
-Accounts Payable $173,845 $20,179 $13,623 $21,983
-Short-Term Debt / Current Portion of Long-Term Debt $2,445,300 $2,349,426 $1,851,555 $1,618,477
+Accounts Payable $113,151 $173,845 $20,179 $13,623
+Short-Term Debt / Current Portion of Long-Term Debt $1,496,931 $2,445,300 $2,349,426 $1,851,555
 Other Current Liabilities $0 $0 $0 $0
 Total Current Liabilities $0 $0 $0 $0
-Long-Term Debt $830,028 $497,083 $267,785 $24,086
-Other Liabilities $93,754 $509,641 $239,417 $103,872
+Long-Term Debt $891,544 $830,028 $497,083 $267,785
+Other Liabilities $29,307 $93,754 $509,641 $239,417
 Deferred Liability Charges $0 $0 $0 $0
-Misc. Stocks $39,434 $31,337 $20,862 $7,116
+Misc. Stocks $36,357 $39,434 $31,337 $20,862
 Minority Interest $0 $0 $0 $0
-Total Liabilities $3,508,952 $3,407,666 $2,393,242 $1,775,534
+Total Liabilities $2,528,648 $3,508,952 $3,407,666 $2,393,242
 Stock Holders Equity
-Common Stocks $39 $563,833 $589,722 $627,620
-Capital Surplus -$103,555 $0 $0 $0
+Common Stocks $44 $39 $563,833 $589,722
+Capital Surplus -$141,521 -$103,555 $0 $0
 Retained Earnings $0 $0 $0 $0
-Treasury Stock $821,747 $0 $10,377 $10,041
+Treasury Stock $915,658 $821,747 $0 $10,377
 Other Equity $0 $0 $0 $0
-Total Equity $829,265 $563,833 $600,099 $637,661
-Total Liabilities & Equity $4,338,217 $3,971,499 $2,993,341 $2,413,195
+Total Equity $885,215 $829,265 $563,833 $600,099
+Total Liabilities & Equity $3,413,863 $4,338,217 $3,971,499 $2,993,341

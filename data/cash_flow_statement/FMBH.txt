@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $47,943 $36,600 $26,684 $21,840
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $45,270 $47,943 $36,600 $26,684
 Cash Flows-Operating Activities
-Depreciation $10,842 $7,881 $8,134 $7,936
-Net Income Adjustments $239 $5,815 $6,437 $803
+Depreciation $11,721 $10,842 $7,881 $8,134
+Net Income Adjustments $6,084 $239 $5,815 $6,437
 Changes in Operating Activities
-Accounts Receivable $4,103 -$7,017 $760 -$2,959
-Changes in Inventories $1,304 -$1,708 -$279 -$629
+Accounts Receivable $6,040 $4,103 -$7,017 $760
+Changes in Inventories -$3,710 $1,304 -$1,708 -$279
 Other Operating Activities $0 $0 $0 $0
-Liabilities -$2,795 $17 $3,166 -$586
-Net Cash Flow-Operating $62,828 $42,175 $46,154 $27,422
+Liabilities -$7,008 -$2,795 $17 $3,166
+Net Cash Flow-Operating $63,541 $62,828 $42,175 $46,154
 Cash Flows-Investing Activities
-Capital Expenditures -$4,103 -$3,112 -$1,274 -$695
-Investments -$30,394 -$65,844 -$61,319 -$90,078
-Other Investing Activities $2,425 $57,995 $6,631 $12,714
-Net Cash Flows-Investing -$32,072 -$10,961 -$55,962 -$78,059
+Capital Expenditures -$2,463 -$4,103 -$3,112 -$1,274
+Investments -$562,013 -$30,394 -$65,844 -$61,319
+Other Investing Activities $2,054 $2,425 $57,995 $6,631
+Net Cash Flows-Investing -$562,422 -$32,072 -$10,961 -$55,962
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$638 $36,507 $3,602 $195
-Net Borrowings -$3,255 $15,449 -$18,125 $56,720
-Other Financing Activities -$71,320 -$21,857 -$55,464 $60,403
-Net Cash Flows-Financing -$87,076 $21,307 -$77,215 $110,755
+Sale and Purchase of Stock $397 -$638 $36,507 $3,602
+Net Borrowings $68,081 -$3,255 $15,449 -$18,125
+Other Financing Activities $775,418 -$71,320 -$21,857 -$55,464
+Net Cash Flows-Financing $831,082 -$87,076 $21,307 -$77,215
 Effect of Exchange Rate $0 $0 $0 $0
-Net Cash Flow -$56,320 $52,521 -$87,023 $60,118
+Net Cash Flow $332,201 -$56,320 $52,521 -$87,023

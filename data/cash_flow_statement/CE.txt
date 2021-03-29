@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $852,000 $1,207,000 $843,000 $900,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $1,985,000 $852,000 $1,207,000 $843,000
 Cash Flows-Operating Activities
-Depreciation $356,000 $349,000 $310,000 $295,000
-Net Income Adjustments $89,000 $244,000 -$529,000 -$190,000
+Depreciation $356,000 $356,000 $349,000 $310,000
+Net Income Adjustments -$1,285,000 $89,000 $244,000 -$529,000
 Changes in Operating Activities
-Accounts Receivable -$11,000 $71,000 $387,000 -$106,000
-Changes in Inventories $165,000 -$48,000 -$110,000 -$59,000
-Other Operating Activities $6,000 -$158,000 -$97,000 $8,000
-Liabilities -$9,000 -$113,000 -$7,000 $39,000
-Net Cash Flow-Operating $1,454,000 $1,558,000 $803,000 $893,000
+Accounts Receivable -$45,000 -$11,000 $71,000 $387,000
+Changes in Inventories $141,000 $165,000 -$48,000 -$110,000
+Other Operating Activities $124,000 $6,000 -$158,000 -$97,000
+Liabilities $60,000 -$9,000 -$113,000 -$7,000
+Net Cash Flow-Operating $1,343,000 $1,454,000 $1,558,000 $803,000
 Cash Flows-Investing Activities
-Capital Expenditures -$370,000 -$337,000 -$267,000 -$246,000
-Investments -$16,000 $0 $0 $0
-Other Investing Activities -$107,000 -$170,000 -$282,000 -$193,000
-Net Cash Flows-Investing -$493,000 -$507,000 -$549,000 -$439,000
+Capital Expenditures -$364,000 -$370,000 -$337,000 -$267,000
+Investments $1,074,000 -$16,000 $0 $0
+Other Investing Activities -$118,000 -$107,000 -$170,000 -$282,000
+Net Cash Flows-Investing $592,000 -$493,000 -$507,000 -$549,000
 Cash Flows-Financing Activities
-Sale and Purchase of Stock -$1,007,000 -$828,000 -$526,000 -$518,000
-Net Borrowings $412,000 -$40,000 $443,000 -$7,000
-Other Financing Activities -$40,000 -$17,000 -$27,000 -$33,000
-Net Cash Flows-Financing -$935,000 -$1,165,000 -$351,000 -$759,000
-Effect of Exchange Rate -$2,000 -$23,000 $35,000 -$24,000
-Net Cash Flow $24,000 -$137,000 -$62,000 -$329,000
+Sale and Purchase of Stock -$679,000 -$1,007,000 -$828,000 -$526,000
+Net Borrowings -$472,000 $412,000 -$40,000 $443,000
+Other Financing Activities -$27,000 -$40,000 -$17,000 -$27,000
+Net Cash Flows-Financing -$1,471,000 -$935,000 -$1,165,000 -$351,000
+Effect of Exchange Rate $28,000 -$2,000 -$23,000 $35,000
+Net Cash Flow $492,000 $24,000 -$137,000 -$62,000

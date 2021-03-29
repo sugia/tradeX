@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $13,739,000 $13,729,000 $12,728,000 $11,271,000
-Cost of Revenue $6,832,000 $6,974,000 $6,329,000 $5,686,000
-Gross Profit $6,907,000 $6,755,000 $6,399,000 $5,585,000
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $3,612,000 $13,739,000 $13,729,000 $12,728,000
+Cost of Revenue $2,608,000 $6,832,000 $6,974,000 $6,329,000
+Gross Profit $1,004,000 $6,907,000 $6,755,000 $6,399,000
 Operating Expenses
-Research and Development $24,000 $12,000 $13,000 $9,000
-Sales, General and Admin. $1,815,000 $1,685,000 $1,590,000 $1,543,000
-Non-Recurring Items $64,000 $11,000 $104,000 $303,000
-Other Operating Items $1,216,000 $1,146,000 $1,208,000 $1,149,000
-Operating Income $3,698,000 $3,751,000 $3,464,000 $2,502,000
-Add'l income/expense items $539,000 -$129,000 -$103,000 -$43,000
-Earnings Before Interest and Tax $4,327,000 $3,772,000 $3,381,000 $2,538,000
-Interest Expense $555,000 $446,000 $327,000 $274,000
-Earnings Before Tax $3,772,000 $3,326,000 $3,054,000 $2,264,000
-Income Tax $468,000 $375,000 -$209,000 $239,000
+Research and Development $18,000 $24,000 $12,000 $13,000
+Sales, General and Admin. $1,261,000 $1,815,000 $1,685,000 $1,590,000
+Non-Recurring Items $118,000 $64,000 $11,000 $104,000
+Other Operating Items $1,215,000 $1,216,000 $1,146,000 $1,208,000
+Operating Income -$1,688,000 $3,698,000 $3,751,000 $3,464,000
+Add'l income/expense items -$37,000 $539,000 -$129,000 -$103,000
+Earnings Before Interest and Tax -$1,645,000 $4,327,000 $3,772,000 $3,381,000
+Interest Expense $536,000 $555,000 $446,000 $327,000
+Earnings Before Tax -$2,181,000 $3,772,000 $3,326,000 $3,054,000
+Income Tax -$38,000 $468,000 $375,000 -$209,000
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary -$606,000 -$538,000 -$455,000 -$346,000
-Net Income-Cont. Operations $2,674,000 $2,349,000 $2,803,000 $1,674,000
-Net Income $2,698,000 $2,413,000 $2,808,000 $1,679,000
-Net Income Applicable to Common Shareholders $2,698,000 $2,413,000 $2,808,000 $1,679,000
+Equity Earnings/Loss Unconsolidated Subsidiary $458,000 -$606,000 -$538,000 -$455,000
+Net Income-Cont. Operations -$1,685,000 $2,674,000 $2,349,000 $2,803,000
+Net Income -$1,685,000 $2,698,000 $2,413,000 $2,808,000
+Net Income Applicable to Common Shareholders -$1,685,000 $2,698,000 $2,413,000 $2,808,000

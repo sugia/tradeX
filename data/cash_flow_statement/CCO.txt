@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income -$363,304 -$218,240 -$644,348 $135,070
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$582,739 -$363,304 -$218,240 -$644,348
 Cash Flows-Operating Activities
-Depreciation $319,624 $329,682 $336,518 $354,696
-Net Income Adjustments $154,080 $65,827 $503,467 -$232,614
+Depreciation $281,263 $319,624 $329,682 $336,518
+Net Income Adjustments $386,634 $554,481 $65,827 $503,467
 Changes in Operating Activities
-Accounts Receivable $104,048 $97,373 -$24,284 $3,796
-Changes in Inventories -$12,555 -$74,598 -$39,790 $30,308
+Accounts Receivable -$318,609 -$262,715 $81,150 -$24,284
+Changes in Inventories $109,014 -$12,555 -$74,598 -$39,790
 Other Operating Activities $0 $0 $0 $0
-Liabilities $11,106 -$28,164 $10,417 -$5,553
-Net Cash Flow-Operating $214,526 $187,275 $160,118 $308,510
+Liabilities $4,116 -$22,532 -$11,941 $10,417
+Net Cash Flow-Operating -$137,808 $214,526 $187,275 $160,118
 Cash Flows-Investing Activities
-Capital Expenditures -$221,152 -$211,079 -$224,238 -$229,772
+Capital Expenditures -$120,370 -$221,152 -$211,079 -$224,238
 Investments $0 $0 $0 $0
-Other Investing Activities $1,110 $7,487 $69,716 $803,852
-Net Cash Flows-Investing -$220,042 -$203,592 -$154,522 $574,080
+Other Investing Activities $214,891 $1,110 $7,487 $69,716
+Net Cash Flows-Investing $94,521 -$220,042 -$203,592 -$154,522
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $370,906 -$4,505 -$12,010 $0
-Net Borrowings -$125,238 -$632 $154,343 $2,422
-Other Financing Activities -$3,502 -$712 -$2,696 -$1,565
-Net Cash Flows-Financing $220,009 $40,686 -$379,513 -$726,499
-Effect of Exchange Rate -$287 -$9,810 $9,536 -$5,330
-Net Cash Flow $214,206 $14,559 -$364,381 $150,761
+Sale and Purchase of Stock -$444 $370,906 -$4,505 -$12,010
+Net Borrowings $430,029 -$81,839 $78,191 $154,343
+Other Financing Activities -$425 -$3,502 -$712 -$2,696
+Net Cash Flows-Financing $418,279 $220,009 $40,686 -$379,513
+Effect of Exchange Rate $2,994 -$287 -$9,810 $9,536
+Net Cash Flow $377,986 $214,206 $14,559 -$364,381

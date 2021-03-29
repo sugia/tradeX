@@ -1,23 +1,23 @@
-Period Ending: 3/31/2020 3/31/2019 3/31/2018 3/31/2017
-Net Income $9,324 $15,427 $14,158 $9,893
+Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
+Net Income $10,236 $14,637 $21,714 $13,137
 Cash Flows-Operating Activities
-Depreciation $30,281 $22,461 $27,234 $27,331
-Net Income Adjustments $23,306 $18,516 $11,347 $9,964
+Depreciation $1,997 $3,293 $3,799 $3,856
+Net Income Adjustments $3,906 $8,672 $6,013 $4,818
 Changes in Operating Activities
-Accounts Receivable $9,300 $13,289 $13,558 $24,438
-Changes in Inventories -$3,831 -$31,506 -$34,047 -$28,393
-Other Operating Activities $5,463 -$15,438 $8,220 -$6,785
-Liabilities -$7,185 -$1,942 -$7,956 -$9,521
-Net Cash Flow-Operating $66,659 $20,807 $32,514 $26,927
+Accounts Receivable $3,750 $2,674 -$3,911 $2,691
+Changes in Inventories $3,308 $13,862 -$15,920 -$5,783
+Other Operating Activities $3,529 $2,540 -$10,287 -$21,426
+Liabilities $0 $0 $0 $0
+Net Cash Flow-Operating $26,726 $45,678 $1,408 -$2,707
 Cash Flows-Investing Activities
-Capital Expenditures -$53,695 -$54,788 -$25,589 -$24,589
-Investments $2,168 -$175 $548 $870
-Other Investing Activities -$5,660 -$2,397 -$2,470 -$1,075
-Net Cash Flows-Investing -$57,188 -$57,361 -$27,511 -$24,794
+Capital Expenditures -$1,441 -$1,345 -$1,690 -$1,441
+Investments -$27,149 -$33,920 $10,214 $8,575
+Other Investing Activities -$1,018 -$1,022 -$11 $0
+Net Cash Flows-Investing -$29,608 -$36,287 $8,513 $7,134
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $71 $13,503 $187 $4,589
-Net Borrowings $19,681 $43,952 -$5,523 $624
-Other Financing Activities -$16,744 -$10,219 -$7,533 -$6,571
-Net Cash Flows-Financing $52 $44,091 -$16,069 -$3,972
-Effect of Exchange Rate $1 $88 -$73 -$55
-Net Cash Flow $9,523 $7,536 -$11,066 -$1,839
+Sale and Purchase of Stock -$7,817 $288 $2,651 $952
+Net Borrowings $0 $0 $0 $0
+Other Financing Activities $0 $0 $0 -$4,463
+Net Cash Flows-Financing -$7,817 $288 -$4,731 -$10,823
+Effect of Exchange Rate $360 $108 -$86 $135
+Net Cash Flow -$10,339 $9,787 $5,104 -$6,261

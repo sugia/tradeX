@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income $414,500 -$141,200 $627,200 $401,800
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income $708,700 $414,500 -$141,200 $627,200
 Cash Flows-Operating Activities
-Depreciation $40,300 $38,700 $37,200 $38,900
-Net Income Adjustments -$476,700 $117,100 -$565,200 -$484,900
+Depreciation $60,000 $40,300 $38,700 $37,200
+Net Income Adjustments -$750,700 -$476,700 $117,100 -$565,200
 Changes in Operating Activities
-Accounts Receivable $35,800 $39,200 $54,500 $31,700
-Changes in Inventories $0 $0 $0 $0
+Accounts Receivable $40,900 $60,900 $60,500 $54,500
+Changes in Inventories -$3,100 -$26,800 -$9,600 $0
 Other Operating Activities $0 $0 $0 $0
-Liabilities -$96,500 -$34,700 -$25,000 -$149,800
-Net Cash Flow-Operating -$120,500 -$31,100 $94,600 -$155,100
+Liabilities -$71,100 -$94,800 -$46,400 -$25,000
+Net Cash Flow-Operating -$60,600 -$120,500 -$31,100 $94,600
 Cash Flows-Investing Activities
 Capital Expenditures $0 $0 $0 $0
-Investments -$32,600 $435,800 $562,500 $1,432,600
-Other Investing Activities -$27,300 $23,400 $156,000 -$155,800
-Net Cash Flows-Investing -$59,900 $459,200 $718,500 $1,276,800
+Investments $711,300 -$32,600 $435,800 $562,500
+Other Investing Activities -$646,700 -$27,300 $23,400 $156,000
+Net Cash Flows-Investing $64,600 -$59,900 $459,200 $718,500
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $43,500 -$512,300 -$714,800 -$877,600
-Net Borrowings $183,500 $68,700 $11,000 -$52,100
-Other Financing Activities $34,800 $39,100 $11,400 -$12,200
-Net Cash Flows-Financing $230,500 -$414,300 -$699,000 -$948,400
-Effect of Exchange Rate $600 -$600 $0 $0
-Net Cash Flow $50,700 $13,200 $16,000 $173,300
+Sale and Purchase of Stock -$76,600 $43,500 -$512,300 -$714,800
+Net Borrowings $80,100 $183,500 $68,700 $11,000
+Other Financing Activities $49,400 $34,800 $39,100 $11,400
+Net Cash Flows-Financing $49,000 $230,500 -$414,300 -$699,000
+Effect of Exchange Rate -$2,800 $600 -$600 $0
+Net Cash Flow $50,200 $50,700 $13,200 $16,000

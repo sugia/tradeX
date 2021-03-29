@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $1,450,253 $1,357,320 $1,002,783 $978,309
-Cost of Revenue $930,810 $887,478 $641,394 $651,739
-Gross Profit $519,443 $469,842 $361,389 $326,570
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Total Revenue $1,560,757 $1,450,253 $1,357,320 $1,002,783
+Cost of Revenue $997,976 $930,810 $887,478 $641,394
+Gross Profit $562,781 $519,443 $469,842 $361,389
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $372,211 $363,528 $293,359 $247,236
-Non-Recurring Items $32,881 $0 $8,864 $16,000
-Other Operating Items $54,155 $49,686 $34,665 $35,069
-Operating Income $60,196 $56,628 $24,501 $19,061
-Add'l income/expense items -$28,011 -$9,794 -$6,877 $59,604
-Earnings Before Interest and Tax $32,185 $46,834 $17,624 $87,869
-Interest Expense $58,216 $55,245 $27,255 $24,651
-Earnings Before Tax -$26,031 -$8,411 -$9,631 $63,218
-Income Tax $14,742 $10,466 -$23,741 $9,469
+Sales, General and Admin. $406,013 $372,211 $363,528 $293,359
+Non-Recurring Items $0 $32,881 $0 $8,864
+Other Operating Items $61,935 $54,155 $49,686 $34,665
+Operating Income $94,833 $60,196 $56,628 $24,501
+Add'l income/expense items -$5,074 -$28,011 -$9,794 -$6,877
+Earnings Before Interest and Tax $89,759 $32,185 $46,834 $17,624
+Interest Expense $45,768 $58,216 $55,245 $27,255
+Earnings Before Tax $43,991 -$26,031 -$8,411 -$9,631
+Income Tax $16,894 $14,742 $10,466 -$23,741
 Minority Interest $0 $0 $0 $0
-Equity Earnings/Loss Unconsolidated Subsidiary -$5,276 -$3,912 -$5,621 -$1,845
-Net Income-Cont. Operations -$40,773 -$18,877 $14,110 $53,749
-Net Income $301,865 -$5,702 $27,991 $54,685
-Net Income Applicable to Common Shareholders $301,865 -$5,702 $27,991 $54,685
+Equity Earnings/Loss Unconsolidated Subsidiary -$4,417 -$5,276 -$3,912 -$5,621
+Net Income-Cont. Operations $27,097 -$40,773 -$18,877 $14,110
+Net Income $22,780 $301,865 -$5,702 $27,991
+Net Income Applicable to Common Shareholders $22,780 $301,865 -$5,702 $27,991

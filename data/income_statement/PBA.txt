@@ -1,20 +1,20 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Total Revenue $5,591,000 $5,398,000 $4,253,000 $3,127,000
-Cost of Revenue $4,000,000 $3,995,000 $3,169,000 $2,381,000
-Gross Profit $1,876,000 $1,704,000 $1,176,000 $747,000
+Period Ending: 12/31/2020 12/31/2019 1/1/2019 12/31/2017
+Total Revenue $4,845,000 $5,591,000 $5,398,000 $4,253,000
+Cost of Revenue $3,243,000 $3,997,000 $3,995,000 $3,169,000
+Gross Profit $1,576,000 $1,883,000 $1,704,000 $1,176,000
 Operating Expenses
 Research and Development $0 $0 $0 $0
-Sales, General and Admin. $240,000 $224,000 $188,000 $145,000
-Non-Recurring Items $231,000 $0 $0 $0
+Sales, General and Admin. $179,000 $240,000 $224,000 $188,000
+Non-Recurring Items $1,394,000 $231,000 $0 $0
 Other Operating Items $0 $0 $0 $0
-Operating Income $1,405,000 $1,480,000 $966,000 $603,000
-Add'l income/expense items $0 $0 -$22,000 $1,000
-Earnings Before Interest and Tax $1,405,000 $1,479,000 $966,000 $602,000
-Interest Expense $227,000 $204,000 $148,000 $114,000
-Earnings Before Tax $1,178,000 $1,275,000 $818,000 $488,000
-Income Tax $28,000 $340,000 $113,000 $141,000
-Minority Interest $285,000 $301,000 $93,000 $1,000
+Operating Income $3,000 $1,412,000 $1,480,000 $966,000
+Add'l income/expense items $0 $0 $0 -$22,000
+Earnings Before Interest and Tax $3,000 $1,412,000 $1,479,000 $966,000
+Interest Expense $330,000 $223,000 $204,000 $148,000
+Earnings Before Tax -$327,000 $1,189,000 $1,275,000 $818,000
+Income Tax -$78,000 $27,000 $340,000 $113,000
+Minority Interest -$25,000 $289,000 $301,000 $93,000
 Equity Earnings/Loss Unconsolidated Subsidiary $0 $0 $0 $0
-Net Income-Cont. Operations $1,436,000 $1,237,000 $797,000 $348,000
-Net Income $1,151,000 $936,000 $705,000 $347,000
-Net Income Applicable to Common Shareholders $1,151,000 $936,000 $705,000 $347,000
+Net Income-Cont. Operations -$273,000 $1,451,000 $1,237,000 $797,000
+Net Income -$248,000 $1,162,000 $936,000 $705,000
+Net Income Applicable to Common Shareholders -$248,000 $1,162,000 $936,000 $705,000

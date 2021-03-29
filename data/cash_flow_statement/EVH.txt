@@ -1,23 +1,23 @@
-Period Ending: 12/31/2019 12/31/2018 12/31/2017 12/31/2016
-Net Income -$292,371 -$52,658 -$60,665 -$159,742
+Period Ending: 12/31/2020 12/31/2019 12/31/2018 12/31/2017
+Net Income -$334,944 -$292,371 -$52,658 -$60,665
 Cash Flows-Operating Activities
-Depreciation $76,006 $49,673 $33,282 $17,224
-Net Income Adjustments $186,598 $18,733 $15,811 $178,473
+Depreciation $97,450 $76,006 $49,673 $33,282
+Net Income Adjustments $275,890 $186,598 $18,733 $15,811
 Changes in Operating Activities
-Accounts Receivable $37,082 $15,562 $1,245 $16,583
-Changes in Inventories $6,326 -$24,503 -$11,258 -$11,044
+Accounts Receivable -$16,176 $37,082 $15,562 $1,245
+Changes in Inventories -$47,017 $6,326 -$24,503 -$11,258
 Other Operating Activities $0 $0 $0 $0
-Liabilities -$43,077 -$25,925 $2,729 -$9,968
-Net Cash Flow-Operating -$42,645 -$20,651 -$27,958 -$35,510
+Liabilities $7,874 -$43,077 -$25,925 $2,729
+Net Cash Flow-Operating -$16,225 -$42,645 -$20,651 -$27,958
 Cash Flows-Investing Activities
-Capital Expenditures -$35,534 -$39,550 -$27,848 $0
-Investments -$142,430 -$19,021 $43,082 $6,379
-Other Investing Activities -$3,670 -$101,804 -$27,499 -$103,036
-Net Cash Flows-Investing -$181,634 -$160,375 -$12,265 -$96,657
+Capital Expenditures $0 $0 $0 -$27,848
+Investments $132,271 -$142,430 -$19,021 $43,082
+Other Investing Activities $128,801 -$39,204 -$141,354 -$27,499
+Net Cash Flows-Investing $261,072 -$181,634 -$160,375 -$12,265
 Cash Flows-Financing Activities
-Sale and Purchase of Stock $8,184 $11,929 $171,029 $1,259
-Net Borrowings $60,539 $165,942 -$1,272 $120,885
-Other Financing Activities -$104,268 $96,153 -$4,200 $28,041
-Net Cash Flows-Financing -$35,545 $274,024 $165,557 $150,185
-Effect of Exchange Rate $30 -$36 $0 $0
-Net Cash Flow -$259,794 $92,962 $125,334 $18,018
+Sale and Purchase of Stock $2,577 $8,184 $11,929 $171,029
+Net Borrowings $11,605 $60,539 $165,942 -$1,272
+Other Financing Activities -$6,044 -$104,268 $96,153 -$4,200
+Net Cash Flows-Financing -$11,862 -$35,545 $274,024 $165,557
+Effect of Exchange Rate $65 $30 -$36 $0
+Net Cash Flow $233,050 -$259,794 $92,962 $125,334
