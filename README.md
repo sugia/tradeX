@@ -2,6 +2,8 @@
 
 Paper: http://cs230.stanford.edu/projects_winter_2021/reports/70728801.pdf
 
+Youtube: https://www.youtube.com/watch?v=B3HGXIkQrIw
+
 Models described in paper are located in:
 A. ./model/model_lstm256_dropout_dense256_dropout.py
 B. ./model/model_lstm512_dropout_dense512_dropout.py
